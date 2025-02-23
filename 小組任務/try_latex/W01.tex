@@ -1,0 +1,123 @@
+\documentclass{article}
+\usepackage{xeCJK} % 支持中文
+\setCJKmainfont{Songti SC} % macOS 默认支持
+
+\usepackage{amsmath, amssymb, graphicx}
+\usepackage{tcolorbox} % 美化框框
+\usepackage{geometry} % 設定頁面邊距
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\title{德語句子解析與語法分析}
+\author{}
+\date{}
+\maketitle
+
+\section{句子原文}
+
+\begin{quote}
+Als parlamentarisches Regierungssystem wird eine Staatsform, ein Organisationsmodell bezeichnet, bei dem das Volk durch gewählte Repräsentanten Staatsgewalt ausübt und das Verhältnis Parlament/Regierung nach bestimmten Prinzipien ausgeformt ist. Es geht vor allem in Konkretisierung des Demokratieprinzips um die verfassungs-
+\end{quote}
+
+\section{句子結構與語法分析}
+
+\subsection{第一部分：Als parlamentarisches Regierungssystem wird eine Staatsform, ein Organisationsmodell bezeichnet}
+
+\subsubsection{1️⃣ 句型結構}
+\begin{itemize}
+    \item \textbf{句子類型}：被動語態（Passivsatz）
+    \item \textbf{動詞}：
+    \begin{tcolorbox}[colframe=blue!50, colback=blue!5, sharp corners]
+        \textbf{wird … bezeichnet} = 被稱為（現在時 Pr\"asens，被動語態 Passiv）
+    \end{tcolorbox}
+    這裡使用助動詞 \textbf{werden} + 過去分詞 \textbf{bezeichnet}。
+    \item \textbf{主語（Nominativ）}：
+    \begin{tcolorbox}[colframe=red!50, colback=red!5, sharp corners]
+        eine Staatsform, ein Organisationsmodell（單數陰性/單數中性，均為第一格）
+    \end{tcolorbox}
+    \item \textbf{狀語（Adverbiale Bestimmung）}：
+    \begin{tcolorbox}[colframe=green!50, colback=green!5, sharp corners]
+        Als parlamentarisches Regierungssystem（作為議會制政府體系）
+    \end{tcolorbox}
+\end{itemize}
+
+\subsubsection{2️⃣ 格與詞形變化}
+\begin{itemize}
+    \item \textbf{parlamentarisches Regierungssystem}：
+    \begin{itemize}
+        \item 形容詞變化：
+        \begin{tcolorbox}[colframe=purple!50, colback=purple!5, sharp corners]
+            \textbf{parlamentarisch} 這裡是中性弱變化（schwache Deklination）
+        \end{tcolorbox}
+        \item 變化規則：
+        \begin{tcolorbox}[colframe=orange!50, colback=orange!5, sharp corners]
+            parlamentarisch + \textbf{-es}（中性單數弱變化）
+        \end{tcolorbox}
+    \end{itemize}
+    \item \textbf{eine Staatsform, ein Organisationsmodell}：
+    \begin{itemize}
+        \item 這兩個名詞都是第一格（Nominativ），因為它們是被稱為的主語。
+        \item eine Staatsform（Staatsform：陰性，第一格，\textbf{eine}）
+        \item ein Organisationsmodell（Organisationsmodell：中性，第一格，\textbf{ein}）
+    \end{itemize}
+\end{itemize}
+
+\textbf{翻譯}：作為\textbf{議會制政府體系}，\textbf{一種國家形式、一種組織模式}被稱為……。
+
+\subsection{第二部分：bei dem das Volk durch gewählte Repräsentanten Staatsgewalt ausübt}
+\subsubsection{1️⃣ 句型結構}
+\begin{itemize}
+    \item \textbf{關係從句（Relativsatz）}：
+    \begin{tcolorbox}[colframe=blue!50, colback=blue!5, sharp corners]
+        bei dem das Volk … ausübt
+    \end{tcolorbox}
+    \item \textbf{關係代詞}：
+    \begin{tcolorbox}[colframe=red!50, colback=red!5, sharp corners]
+        bei dem（指代 Organisationsmodell，中性，Dativ）
+    \end{tcolorbox}
+    \item \textbf{主語（Nominativ）}：
+    \begin{tcolorbox}[colframe=green!50, colback=green!5, sharp corners]
+        das Volk
+    \end{tcolorbox}
+    \item \textbf{動詞（Prädikat）}：
+    \begin{tcolorbox}[colframe=orange!50, colback=orange!5, sharp corners]
+        übt … aus（動詞「ausüben」，分離動詞，意為行使）
+    \end{tcolorbox}
+    \item \textbf{賓語（Akkusativ）}：
+    \begin{tcolorbox}[colframe=purple!50, colback=purple!5, sharp corners]
+        Staatsgewalt（第四格）
+    \end{tcolorbox}
+\end{itemize}
+
+\subsubsection{2️⃣ 格與詞形變化}
+\begin{itemize}
+    \item \textbf{durch gewählte Repräsentanten}：
+    \begin{itemize}
+        \item 介詞：
+        \begin{tcolorbox}[colframe=red!50, colback=red!5, sharp corners]
+            durch（支配第四格，Akkusativ）
+        \end{tcolorbox}
+        \item 名詞：
+        \begin{tcolorbox}[colframe=blue!50, colback=blue!5, sharp corners]
+            Repräsentanten（複數，第四格）
+        \end{tcolorbox}
+        \item 形容詞變化：
+        \begin{tcolorbox}[colframe=green!50, colback=green!5, sharp corners]
+            gewählte（弱變化，複數第四格：gewählt + -e）
+        \end{tcolorbox}
+    \end{itemize}
+\end{itemize}
+
+\textbf{翻譯}：\textbf{在其中，人民透過選舉產生的代表行使國家權力。}
+
+\subsection{總結}
+這段文字使用了：
+\begin{itemize}
+    \item \textbf{被動語態（Passiv）}
+    \item \textbf{關係從句（Relativsatz）}
+    \item \textbf{介詞短語（Präpositionalphrase）}
+    \item \textbf{名詞格變化（Nominativ、Akkusativ、Dativ、Genitiv）}
+\end{itemize}
+
+\end{document}

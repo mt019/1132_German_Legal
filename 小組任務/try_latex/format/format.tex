@@ -1,0 +1,93 @@
+% ==========================
+%  LaTeX Preamble for 法學德語句子分析
+% ==========================
+\documentclass{article}
+
+% ------- 必要宏包 -------
+\usepackage[a4paper, margin=2.5cm]{geometry}  % 設置頁邊距
+\usepackage{xcolor}    % 顏色支持
+\usepackage{hyperref}  % 內部超鏈接
+\usepackage{fontspec}  % 字體支持 (適用於德語 + 中文)
+\usepackage{xeCJK}     % 中文 & CJK 支持
+\usepackage[most]{tcolorbox} % tcolorbox 高級標註
+
+% ------- 字體設置 -------
+\setmainfont{Times New Roman} % 英文字體
+\setCJKmainfont{Songti SC}    % 中文 (macOS)
+\setCJKsansfont{PingFang SC}  % 中文無襯線
+\setCJKmonofont{STHeiti}      % 中文等寬
+
+% ------- 超鏈接設置 -------
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=red
+}
+
+% ------- tcolorbox 內聯標註設計 (句子成分) -------
+\newtcbox{\Subj}{on line,
+    colframe=blue, colback=blue!10,
+    boxrule=1pt, arc=3pt, left=2pt, right=2pt, top=1pt, bottom=1pt}
+    
+\newtcbox{\Verb}{on line,
+    colframe=red, colback=red!10,
+    boxrule=1pt, arc=3pt, left=2pt, right=2pt, top=1pt, bottom=1pt}
+
+\newtcbox{\Obj}{on line,
+    colframe=green, colback=green!10,
+    boxrule=1pt, arc=3pt, left=2pt, right=2pt, top=1pt, bottom=1pt}
+
+\newtcbox{\Adj}{on line,
+    colframe=purple, colback=purple!10,
+    boxrule=1pt, arc=3pt, left=2pt, right=2pt, top=1pt, bottom=1pt}
+
+\newtcbox{\Clause}{on line,
+    colframe=gray, colback=gray!10,
+    boxrule=1pt, arc=3pt, left=2pt, right=2pt, top=1pt, bottom=1pt}
+
+% ------- 法學術語 (黑底白字，區分於普通詞) -------
+\newtcbox{\LawDef}{on line,
+    colframe=black, colback=black!10, fontupper=\color{white},
+    boxrule=1pt, arc=3pt, left=2pt, right=2pt, top=1pt, bottom=1pt}
+
+% ------- 句子結構解析框 (黑框白底) -------
+\newtcolorbox{SentenceAnalysis}{
+    colback=white, colframe=black, arc=3pt, boxrule=1pt,
+    title={\textbf{句子解析}}, fonttitle=\bfseries
+}
+
+% ------- 段落間距 & 行距優化 -------
+\usepackage{setspace}
+\setstretch{1.3}
+
+% ------- UTF-8 & 德語支持 -------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel} % 德語排版支持
+
+% ------- 讓 LaTeX 支持長句換行 -------
+\usepackage{microtype}
+
+% ==========================
+%  正文開始
+% ==========================
+\begin{document}
+
+\title{德語法學句子分析示例}
+\author{LaTeX德文分析}
+\date{\today}
+\maketitle
+
+\section{德語句子解析示例}
+
+\begin{SentenceAnalysis}
+  \Subj{Das Bundesverfassungsgericht} \Verb{entscheidet} \Obj{über Verfassungsbeschwerden}. \\
+  (\LawDef{Das Bundesverfassungsgericht} 為主語，\LawDef{entscheidet} 是動詞，\LawDef{über Verfassungsbeschwerden} 為受詞，表示「德國聯邦憲法法院裁定憲法訴願」)
+\end{SentenceAnalysis}
+
+\begin{SentenceAnalysis}
+  \Subj{Die Verfassung} \Verb{enthält} \Obj{grundlegende Prinzipien}, \Clause{die \Verb{in Gesetzen} \Adj{konkretisiert} \Verb{werden}}. \\
+  (\LawDef{Die Verfassung} 是主語，\LawDef{enthält} 是動詞，\LawDef{grundlegende Prinzipien} 是受詞，關係從句 \Clause{die \Verb{in Gesetzen} \Adj{konkretisiert} \Verb{werden}} 進一步解釋法學原則)
+\end{SentenceAnalysis}
+
+\end{document}
