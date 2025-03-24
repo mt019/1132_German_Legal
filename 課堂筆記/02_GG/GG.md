@@ -753,6 +753,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 | **美國** | **無議會不信任機制** | ❌ 無 | ✅ 穩定（總統制） |
 
 **結論**：
+
 - **德國的「建設性不信任投票」確保政府穩定性，避免頻繁倒閣**
 - **相比英法，德國的制度更有助於政府延續性，不會因短期政治鬥爭導致無政府狀態**
 

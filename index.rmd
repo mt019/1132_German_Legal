@@ -3,7 +3,7 @@ title: "1132 法學德文"
 author: [王逸帆]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-documentclass: book
+documentclass: ctexbook
 # output: bookdown::gitbook
 output: bookdown::bs4_book
 link-citations: true

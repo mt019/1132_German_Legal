@@ -3,11 +3,11 @@ clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
 language:
   label:
-    fig: "<U+5716> "
-    tab: "<U+8868> "
+    fig: "圖 "
+    tab: "表 "
   ui:
-    edit: "<U+7DE8><U+8F2F>"
-    chapter_name: ["<U+7B2C> ", " <U+7AE0>"]
+    edit: "編輯"
+    chapter_name: ["第 ", " 章"]
 output_dir: "docs"
 rmd_subdir: true
 rmd_files:
