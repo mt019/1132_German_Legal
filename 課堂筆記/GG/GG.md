@@ -38,7 +38,7 @@
 - **「社會國家原則」確保國家須提供最低社會保障，如基本生活保障（Sozialhilfe）。**
 - **「聯邦制」確保德國非中央集權體制，各邦享有立法與行政自主權（Art. 70 GG 及以下條文）。**
 
----
+***
 
 ### **(2) 人民主權原則（Volkssouveränität）**
 > *„Alle Staatsgewalt geht vom Volke aus.“*  
@@ -53,7 +53,7 @@
   - **行政機關（vollziehende Gewalt）** → 聯邦政府（Bundesregierung）、邦政府（Landesregierung）。
   - **司法機關（Rechtsprechung）** → 憲法法院（Bundesverfassungsgericht, BVerfG）及普通法院系統。
 
----
+***
 
 ### **(3) 法治國原則（Rechtsstaatsprinzip）**
 > *„Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.“*  
@@ -71,7 +71,7 @@ Rechts：法原則，法理學的「法」
 - **防止專斷統治，確保政府運作符合法律規範。**
 - **人民可以透過法院訴訟挑戰違憲或違法的政府行為（如聯邦憲法法院的違憲審查）。**
 
----
+***
 
 ### **(4) 抵抗權（Widerstandsrecht）**
 > *„Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.“*  
@@ -87,7 +87,7 @@ Rechts：法原則，法理學的「法」
 - **納粹時期（1933-1945）**：魏瑪憲法未提供明確的「抵抗權」，導致希特勒合法掌權。
 - **本條款作為民主制度的最後保障**，確保公民在憲政秩序被破壞時，能有合法手段進行抵抗。
 
----
+***
 
 ## 歷史與影響
 
@@ -106,7 +106,7 @@ Rechts：法原則，法理學的「法」
 | **美國** | ✅ 憲法前言 & 民選政府 | ✅ 憲法保障 | ❌ 無明文條款 |
 | **法國** | ✅ 憲法第 1 條 | ✅ 法律至上 | ❌ 無明文條款 |
 
----
+***
 
 ## 總結
 
@@ -114,7 +114,7 @@ Rechts：法原則，法理學的「法」
 - **該條款不可修改，確保民主制度的延續性。**
 - **抵抗權作為最後防線，防止極權政府顛覆民主秩序。**
 
----
+***
 
 
 # 德國基本法（Grundgesetz, GG）第 21 條解析
@@ -126,7 +126,7 @@ Ihre Gründung ist frei.
 Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen.  
 Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.  
 
----
+***
 
 ## 條文翻譯與拆解
 
@@ -159,7 +159,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
    **翻譯**：「政黨必須公開報告其資金的來源與用途，以及其財產狀況。」  
 
----
+***
 
 ## 條文解析
 
@@ -176,7 +176,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 - **聯邦憲法法院（BVerfG）判決確認，政黨在民主制度中的作用受憲法保護。**
 - **即使是不在議會中的政黨，也享有影響公共討論的權利（如社會運動、媒體活動）。**
 
----
+***
 
 ### **(2) 政黨成立的自由**
 > *„Ihre Gründung ist frei.“*
@@ -189,7 +189,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 - **如果政黨違反憲法秩序（如納粹、極端恐怖組織），可以被取締。**
 - **聯邦憲法法院（BVerfG）有權解散違憲政黨（Art. 21(2) GG）。**
 
----
+***
 
 ### **(3) 政黨內部必須符合民主原則**
 > *„Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen.“*
@@ -204,7 +204,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
   - 黨內領導人應由黨員選舉產生。
   - 黨內財務、決策應向全體黨員公開。
 
----
+***
 
 ### **(4) 財務透明與責任**
 > *„Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.“*
@@ -223,7 +223,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 **案例：**
 - **2016 年，德國「另類選擇黨」（AfD）因未公開部分政治捐款，被處以高額罰款。**
 
----
+***
 
 ## 法律影響與比較
 
@@ -240,7 +240,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 - **財務透明度高**，避免政黨資金來源不明，防止非法政治影響力。
 - **與美國不同，德國的政黨不是私人組織，而是公共機構，受憲法與法律監管。**
 
----
+***
 
 ## 總結
 
@@ -252,7 +252,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 
 
----
+***
 
 # 德國基本法（Grundgesetz, GG）第 21 條第 2 款解析  
 
@@ -260,7 +260,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 > **Parteien, die nach ihren Zielen oder nach dem Verhalten ihrer Anhänger darauf ausgehen, die freiheitliche demokratische Grundordnung zu beeinträchtigen oder zu beseitigen oder den Bestand der Bundesrepublik Deutschland zu gefährden, sind verfassungswidrig.**  
 
----
+***
 
 ## 條文翻譯與拆解  
 
@@ -299,7 +299,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
    **翻譯**：「是違憲的。」  
 
----
+***
 
 ## 條文解析  
 
@@ -310,7 +310,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 這一規定源於二戰後德國的歷史經驗，防止極端政黨（如納粹黨）再次崛起。
 
----
+***
 
 ### **(2) 何謂「自由民主基本秩序」（freiheitliche demokratische Grundordnung, FDGO）？**  
 德國憲法法院（BVerfG）在多項判決中明確界定，**FDGO 包括以下基本原則**：
@@ -322,7 +322,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 因此，**任何違反這些原則的政黨，皆可能被視為違憲政黨**。
 
----
+***
 
 ### **(3) 違憲政黨的解散程序**  
 根據 **《基本法》第 21(2) 條**，違憲政黨的解散程序如下：
@@ -333,7 +333,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
    - 法院審查該政黨是否違反**自由民主基本秩序**。
    - 若確認違憲，該政黨將被解散，其財產亦可被沒收。
 
----
+***
 
 ### **(4) 具體案例**
 1. **1952 年：德國帝國黨（Sozialistische Reichspartei, SRP）被取締**  
@@ -347,7 +347,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 3. **2017 年：「國家民主黨」（NPD）未被取締**  
    - 該黨雖有極端民族主義立場，但法院認為**其影響力有限，對民主秩序未構成實質威脅**，因此未予取締。  
 
----
+***
 
 ## **法律影響與比較**
 
@@ -363,7 +363,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 - 德國對極端政黨的限制較嚴格，確保民主制度不被顛覆。
 - 美國則認為**言論自由高於政黨取締，因此不禁止極端政黨**。
 
----
+***
 
 ## 總結
 
@@ -372,7 +372,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 - **過去曾取締納粹與共產主義政黨，近年則傾向保留政黨存在，但限制其影響力。**
 - **德國政黨制度的特點在於兼顧民主自由與憲政保障，防範歷史悲劇重演。**
 
----
+***
 
 # 德國基本法（Grundgesetz, GG）第 38 條解析
 
@@ -385,7 +385,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 
 **(3)** Das Nähere bestimmt ein Bundesgesetz.  
 
----
+***
 
 ## 條文翻譯與拆解
 
@@ -418,7 +418,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - 他們不受選民或政黨的強制命令，確保其獨立性。  
 - **這與「緊密代表制」（Imperatives Mandat）相對立**，後者要求議員嚴格依據選民或政黨的指示行事，這在德國憲法體系下被禁止。  
 
----
+***
 
 ### **(2) 選舉權與被選舉權**
 > *„Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt.“*
@@ -435,7 +435,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **被選舉權（passives Wahlrecht）**：18 歲以上公民可競選議員。  
 - **《基本法》第 38(2) 條確保成年公民享有民主參與權。**  
 
----
+***
 
 ### **(3) 進一步規範由聯邦法律決定**
 > *„Das Nähere bestimmt ein Bundesgesetz.“*
@@ -449,7 +449,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **選舉的技術性細節**（如選舉制度、投票方式）由**《聯邦選舉法》（Bundeswahlgesetz, BWahlG）**規定。  
 - **選舉機構、選舉爭議處理、政黨參與規則**等由**《政黨法》（Parteiengesetz, PartG）**補充規範。  
 
----
+***
 
 ## **法律影響與比較**
 
@@ -466,7 +466,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **德國議員獨立性強，不受選區或政黨指令約束**，與美國、英國不同。  
 - **選舉技術細節由聯邦法律決定，確保憲法框架內的彈性調整空間。**  
 
----
+***
 
 ## **總結**
 - **《基本法》第 38 條確保德國聯邦議院議員的選舉過程公平、民主，並保障其獨立性。**  
@@ -503,7 +503,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「vom Bundestage gewählt」** → **「von」+ Dativ（與格）**，表**選舉權屬於聯邦議院**，確保民主正當性。  
 - **「ohne Aussprache」** → 無須辯論，**避免冗長討論影響決策效率**。  
 
----
+***
 
 ### **(2) 當選條件**
 > **Gewählt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages auf sich vereinigt. Der Gewählte ist vom Bundespräsidenten zu ernennen.**  
@@ -527,7 +527,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「vereinigt auf sich」** → **「auf sich vereinigen」+ Akkusativ（受格）**，表示「匯集於自身」，即獲得選票支持。  
 - **「zu ernennen」** → **情態動詞結構，表「義務」（Pflicht）**，即聯邦總統必須執行任命，而無選擇權。  
 
----
+***
 
 ### **(3) 若首輪選舉失敗**
 > **Wird der Vorgeschlagene nicht gewählt, so kann der Bundestag binnen vierzehn Tagen nach dem Wahlgange mit mehr als der Hälfte seiner Mitglieder einen Bundeskanzler wählen.**  
@@ -547,7 +547,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「binnen + Dativ」** → 指定時間範圍內完成行為（14 天內）。  
 - **「mit mehr als der Hälfte」** → **絕對多數（absolute Mehrheit）仍是要求**，避免少數政府。  
 
----
+***
 
 ### **(4) 若 14 天內仍無當選者**
 > **Kommt eine Wahl innerhalb dieser Frist nicht zustande, so findet unverzüglich ein neuer Wahlgang statt, in dem gewählt ist, wer die meisten Stimmen erhält.**  
@@ -566,7 +566,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「zustande kommen」+ Dativ** → 指決策或程序「未能成功」。  
 - **最終投票採「相對多數制」（relative Mehrheit）**，確保政府不因選舉僵局而癱瘓。  
 
----
+***
 
 ## **總結**
 - **《基本法》第 63 條規定聯邦總理的選舉程序，以確保政府穩定性。**  
@@ -574,7 +574,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **聯邦總統無決策權，僅負責提名與任命，確保議會的主導權。**  
 - **若議會仍無法產生總理，總統可解散議會，確保民主機制的有效運作。**  
 
----
+***
 
 # **德國基本法（Grundgesetz, GG）第 64 條解析**
 
@@ -586,7 +586,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 ### **(2) 聯邦總理與聯邦部長的宣誓**
 > **Der Bundeskanzler und die Bundesminister leisten bei der Amtsübernahme vor dem Bundestage den in Artikel 56 vorgesehenen Eid.**
 
----
+***
 
 ## **條文翻譯與拆解**
 
@@ -608,7 +608,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「vom Bundespräsidenten」** → **總統僅具「形式上的任命權」，無拒絕權。**
 - **「werden … ernannt und entlassen」** → **動詞「ernennen」與「entlassen」為並列結構，表「總理由則」下總理擁有內閣組閣與解散權。**
 
----
+***
 
 ### **(2) 聯邦總理與聯邦部長的宣誓**
 > **„Der Bundeskanzler und die Bundesminister leisten bei der Amtsübernahme vor dem Bundestage den in Artikel 56 vorgesehenen Eid.“**
@@ -631,7 +631,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **誓言內容依據《基本法》第 56 條**，通常為：
   > „Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.“
 
----
+***
 
 ## **法律影響與比較**
 
@@ -647,7 +647,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **德國的「總理由則」確保總理擁有內閣控制權**，總統僅形式上參與。
 - **相比美國總統制，德國總理的權力主要來自議會，而非個人直接當選**。
 
----
+***
 
 ## **總結**
 - **《基本法》第 64 條確立內閣成員的任免機制，確保政府穩定運作。**
@@ -656,7 +656,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **與其他國家比較，德國內閣制確保總理主導政府運作，但仍保留議會監督機制，以防止行政權過度集中。**
 
 
----
+***
 
 
 # **德國基本法（Grundgesetz, GG）第 67 條解析**  
@@ -669,7 +669,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 ### **(2) 48 小時冷卻期**
 > **„Zwischen dem Antrage und der Wahl müssen achtundvierzig Stunden liegen.“**  
 
----
+***
 
 ## **條文翻譯與拆解**  
 
@@ -697,7 +697,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「einen Nachfolger wählen」+ Akkusativ（受格）** → **「選舉繼任者」**
 - **「den Bundespräsidenten ersuchen, den Bundeskanzler zu entlassen」+ Akkusativ（受格）** → **向聯邦總統請求罷免總理**
 
----
+***
 
 > **„Der Bundespräsident muß dem Ersuchen entsprechen und den Gewählten ernennen.“**  
 
@@ -714,7 +714,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **「dem Ersuchen entsprechen」+ Dativ（與格）** → **總統無拒絕權，必須依議會請求行動**
 - **「den Gewählten ernennen」+ Akkusativ（受格）** → **總統的角色僅限於「正式任命」，無實質否決權**
 
----
+***
 
 ### **(2) 48 小時冷卻期**
 > **„Zwischen dem Antrage und der Wahl müssen achtundvierzig Stunden liegen.“**  
@@ -734,7 +734,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
   - **避免倉促決策，確保議會有足夠時間考慮替代方案**
   - **讓議員能夠在政治協商與談判後做出理性決策**
 
----
+***
 
 ## **建設性不信任投票的作用與比較**  
 
@@ -754,7 +754,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - **德國的「建設性不信任投票」確保政府穩定性，避免頻繁倒閣**
 - **相比英法，德國的制度更有助於政府延續性，不會因短期政治鬥爭導致無政府狀態**
 
----
+***
 
 ## **歷史案例**
 ### **(1) 1982 年科爾（Helmut Kohl）成功發動不信任投票**
@@ -765,7 +765,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 - 反對黨基民盟（CDU）嘗試罷免社民黨（SPD）總理布蘭特（Willy Brandt），但未能在議會中找到足夠票數支持繼任者。  
 - **結果**：布蘭特繼續執政，顯示該機制確保政府穩定。  
 
----
+***
 
 ## **總結**
 - **議會必須先選出新總理，才能罷免現任總理，確保政府穩定。**

@@ -1,19 +1,17 @@
-book_filename: "1132 Readings of German Jurisprudence"
+book_filename: "1132-Readings-of-German-Jurisprudence.Rmd"
 clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
 language:
   label:
-    fig: "圖 "
-    tab: "表 "
+    fig: "<U+5716> "
+    tab: "<U+8868> "
   ui:
-    edit: "編輯"
-    chapter_name: ["第 ", " 章"]
+    edit: "<U+7DE8><U+8F2F>"
+    chapter_name: ["<U+7B2C> ", " <U+7AE0>"]
 output_dir: "docs"
 rmd_subdir: true
 rmd_files:
-  - ./latex格式標準/色彩.md
-  - ./Rn_338.md
-  - ./W01_0218.md
+  - index.Rmd
   - ./課堂筆記/GG/GG.md
   - ./課堂筆記/Rn_338.md
   - ./課堂筆記/Rn_339.md
