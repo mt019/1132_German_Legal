@@ -6,7 +6,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">1132法學德文</a></li>
+        <li><a href="./">1132 法學德文</a></li>
       after: |
         <li><a href="https://github.com/mt019/1132_German_Legal" target="blank">Published with bookdown</a></li>
     edit: https://github.com/mt019/1132_German_Legal/edit/main/%s
@@ -31,4 +31,4 @@ bookdown::epub_book:
 # bookdown::bs4_book: default
 bookdown::bs4_book:
   theme:
-    primary: "#637238"
+    primary: "#ea9999"

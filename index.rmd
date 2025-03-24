@@ -4,10 +4,14 @@ author: [王逸帆]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-output: bookdown::gitbook
+# output: bookdown::gitbook
+output: bookdown::bs4_book
 link-citations: true
-description: "113-2 學期【法學德文】課堂筆記。采用R的bookdown制作，输出格式为bookdown::gitbook."
+url: https://mt019.github.io/1132_German_Legal/
+description: "113-2 學期【法學德文】課堂筆記。采用R的bookdown制作，输出格式为bookdown::bs4_book."
+
 ---
+
 
 # Preface {-}
 
