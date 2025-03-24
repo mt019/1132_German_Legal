@@ -1,0 +1,20 @@
+---
+title: "1132 法學德文"
+author: [王逸帆]
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output: bookdown::gitbook
+link-citations: true
+description: "113-2 學期【法學德文】課堂筆記。采用R的bookdown制作，输出格式为bookdown::gitbook."
+---
+
+# Preface {-}
+
+法學德文
+
+
+113-2 學期《法學德文》課堂筆記。采用R的bookdown製作，輸出格式為bookdown::gitbook。
+
+
+

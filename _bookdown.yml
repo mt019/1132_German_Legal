@@ -1,0 +1,33 @@
+book_filename: "1132 Readings of German Jurisprudence"
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: "圖 "
+    tab: "表 "
+  ui:
+    edit: "編輯"
+    chapter_name: ["第 ", " 章"]
+output_dir: "docs"
+rmd_subdir: true
+rmd_files:
+  - ./latex格式標準/色彩.md
+  - ./Rn_338.md
+  - ./W01_0218.md
+  - ./課堂筆記/GG/GG.md
+  - ./課堂筆記/Rn_338.md
+  - ./課堂筆記/Rn_339.md
+  - ./課堂筆記/Rn_340.md
+  - ./課堂筆記/Rn_341.md
+  - ./課堂筆記/Rn_342.md
+  - ./課堂筆記/Rn_343.md
+  - ./課堂筆記/Rn_344.md
+  - ./課堂筆記/Rn_345.md
+  - ./課堂筆記/Rn_346.md
+  - ./課堂筆記/Rn_347.md
+  - ./課堂筆記/Rn_348.md
+  - ./課堂筆記/Rn_349.md
+  - ./課堂筆記/Rn_350.md
+  - ./課堂筆記/W01_0218.md
+  - ./課堂筆記/W05_0318.md
+  - ./課堂筆記/小知識/條項款.md
