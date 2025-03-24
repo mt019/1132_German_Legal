@@ -13,19 +13,20 @@ rmd_subdir: true
 rmd_files:
   - index.Rmd
   - ./課堂筆記/GG/GG.md
-  - ./課堂筆記/Rn_338.md
-  - ./課堂筆記/Rn_339.md
-  - ./課堂筆記/Rn_340.md
-  - ./課堂筆記/Rn_341.md
-  - ./課堂筆記/Rn_342.md
-  - ./課堂筆記/Rn_343.md
-  - ./課堂筆記/Rn_344.md
-  - ./課堂筆記/Rn_345.md
-  - ./課堂筆記/Rn_346.md
-  - ./課堂筆記/Rn_347.md
-  - ./課堂筆記/Rn_348.md
-  - ./課堂筆記/Rn_349.md
-  - ./課堂筆記/Rn_350.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_338.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_339.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_340.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_341.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_342.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_343.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_344.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_345.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_346.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_347.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_348.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_349.md
+  - ./課堂筆記/Staatsrecht選讀/Rn_350.md
   - ./課堂筆記/W01_0218.md
   - ./課堂筆記/W05_0318.md
+  - ./課堂筆記/小知識/憲法和基本法.md
   - ./課堂筆記/小知識/條項款.md
