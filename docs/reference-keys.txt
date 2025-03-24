@@ -1,5 +1,5 @@
-w01_0218
-w05-0318
+w218
+w318
 解析德國基本法修訂與財政政策
 原文
 翻譯
@@ -31,7 +31,7 @@ abgeordnete-在德國政治體系中的角色
 德國議員的特殊權利
 例句
 總結-1
-議會制政府系統parlamentarisches-regierungssystem
+parlamentarisches-regierungssystem
 rn.-338.1-第一個句子
 原文-1
 翻譯-1
@@ -143,7 +143,7 @@ rn.-338.8-第八個句子
 rn.-338-的核心主題-7
 德國基本法gg相關條文-7
 專業法學概念補充
-rn.-339權力分立與制衡結構struktur-des-checks-and-balances
+rn-339-struktur-des-checks-and-balances
 rn.-339.1-第一個句子
 原文-9
 翻譯-9
@@ -209,7 +209,7 @@ rn.-339.4-第四句
 rn.-339-的核心主題-3
 德國基本法gg相關條文-10
 法律概念補充
-rn.-340議會制政府體制-制度的形成parlamentarisches-regierungssystem-entstehung
+rn-340-parlamentarisches-regierungssystem-entstehung
 rn.-340.1-第一句
 原文-13
 翻譯-13
@@ -255,7 +255,7 @@ rn.-340.3-第三句
 rn.-340-的核心主題-2
 德國基本法gg相關條文與制度設計
 制度概念補充
-rn.-341議會制政府的基本架構parlamentarisches-regierungssystem-grundstruktur
+rn-341-parlamentarisches-regierungssystem-grundstruktur
 rn.-341.1-第一個句子
 原文-16
 翻譯-16
@@ -348,8 +348,7 @@ rn.-341.6-第六個句子
 rn.-341-的核心主題-5
 德國基本法gg相關條文-13
 相關法學概念-7
-rn.-342議會制下基本法的制度性特徵charakteristika-des-gg
-rn.-342基本法的議會制體系特徵charakteristika-des-gg
+rn-342-charakteristika-des-gg
 德文原文
 中文翻譯
 rn.-342.0-前導句
@@ -512,7 +511,7 @@ rn.-342-的核心主題-9
 德國基本法gg相關條文-19
 專業法學概念補充-6
 比較觀點與歷史背景
-rn.-343代表性原則與功能repräsentationsprinzip-und--funktion
+rn-343-reprasentationsprinzip-und-funktion
 rn.-343.1-第一個句子
 原文-32
 翻譯-32
@@ -622,7 +621,7 @@ zu-不定式補足句
 rn.-343-的核心主題-7
 德國基本法gg相關條文-27
 相關法學概念-15
-rn.-344憲政現實與政治複雜性verfassungswirklichkeit-und-politikkomplexität
+rn-344-verfassungswirklichkeit-und-politikkomplexitat
 rn.-344.1-第一個句子
 原文-40
 翻譯-40
@@ -678,7 +677,7 @@ rn.-344.4-第四個句子
 rn.-344-的核心主題-2
 德國基本法gg相關條文-30
 相關法學概念-18
-rn.-345議會制政府的穩定性bewährtes-system
+rn-345-bewahrtes-system
 第一個句子
 原文-44
 翻譯-44
@@ -733,7 +732,7 @@ rn.-345.5-第五個句子
 rn.-345-的核心主題-1
 德國基本法gg相關條文-32
 政治現實-vs.-憲法規範
-rn.-346弱點與危機schwächen-und-gefahren
+rn-346-schwachen-und-gefahren
 第一個句子-1
 原文-49
 翻譯-49
@@ -794,7 +793,7 @@ section-3
 公共透明度與公民參與
 數位世界中的民主程序
 與其他民主模式的比較
-rn.-347計畫與合作型國家治理planung-und-kooperative-staatsleitung
+rn-347-planung-und-kooperative-staatsleitung
 rn.-347.1-第一個句子
 原文-57
 翻譯-57
@@ -882,7 +881,7 @@ rn.-347.6-第六個句子
 rn.-347-的核心主題-5
 德國基本法gg與行政機關的規劃權限
 planungshoheit規劃主權與行政權
-rn.-348議會參與parlamentsbeteiligung
+rn-348-parlamentsbeteiligung
 rn.-348.1-第一個句子
 原文-63
 翻譯-63
@@ -910,7 +909,7 @@ rn.-348-的核心主題-1
 德國基本法gg與議會權限
 規劃權力分立plangewaltenteilung的爭議
 結論
-rn.-349議會制度下的規劃參與parlamentarische-beteiligung-an-staatlicher-planung
+rn-349-parlamentarische-beteiligung-an-staatlicher-planung
 rn.-349.1-第一句
 原文-65
 翻譯-65
@@ -964,7 +963,7 @@ nebensatz-soweit-引導的從句結構
 rn.-349-的核心主題-2
 德國基本法gg相關條文-35
 專業概念補充-4
-rn.-350預算權與國家規劃參與budgetrecht-und-planungseinfluss-des-bundestages
+rn-350-budgetrecht-und-planungseinfluss-des-bundestages
 rn.-350.1-第一個句子
 原文-68
 翻譯-68
@@ -1027,7 +1026,7 @@ rn.-350.4-第四句
 核心法學意涵
 五種議會影響形式解析
 德國基本法關聯條文
-gg-第-20-條解析
+gg-20
 條文原文artikel-20-gg
 條文翻譯
 條文解析
@@ -1040,7 +1039,7 @@ gg-第-20-條解析
 影響現代德國政治
 與其他國家比較
 總結-4
-gg-第-21-條解析
+gg-21
 條文原文artikel-21-gg
 條文翻譯與拆解
 逐字翻譯
@@ -1052,7 +1051,7 @@ gg-第-21-條解析
 法律影響與比較
 德國-vs.-其他國家
 總結-5
-gg-第-21-條第-2-款解析
+gg-21-2
 條文原文artikel-21-2-gg
 條文翻譯與拆解-1
 逐字翻譯-1
@@ -1064,7 +1063,7 @@ gg-第-21-條第-2-款解析
 法律影響與比較-1
 德國-vs.-其他國家-1
 總結-6
-gg-第-38-條解析
+gg-38
 條文原文artikel-38-gg
 條文翻譯與拆解-2
 聯邦議院議員的選舉與職責
@@ -1075,7 +1074,7 @@ gg-第-38-條解析
 法律影響與比較-2
 德國-vs.-其他國家-2
 總結-7
-gg-第-63-條解析
+gg-63
 條文原文artikel-63-gg
 提名與選舉
 句子結構分析
@@ -1094,7 +1093,7 @@ gg-第-63-條解析
 翻譯-75
 語法與法律解析-3
 總結-8
-gg-第-64-條解析
+gg-64
 條文原文artikel-64-gg
 聯邦部長的任命與罷免
 聯邦總理與聯邦部長的宣誓
@@ -1110,7 +1109,7 @@ gg-第-64-條解析
 法律影響與比較-3
 德國-vs.-其他國家-3
 總結-9
-gg-第-67-條解析
+gg-67
 條文原文artikel-67-gg
 建設性不信任投票konstruktives-misstrauensvotum
 小時冷卻期
