@@ -37,7 +37,7 @@
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "m sg",
-                "original_nominative_form": "der Status der Gleichheit der Abgeordneten"
+                "original_nominative_form": "der Status"
               }
             ]
           },
@@ -71,6 +71,7 @@
               "de": "Alle Abgeordneten",
               "zh": "全體議員",
               "gender_number": "pl",
+              "original_nominative_form": "der Abgeordnete",
               "legal_entity": true,
               "entity_type": "parliament_members"
             },
@@ -100,7 +101,7 @@
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": "an",
-        "prepositional_phrases": [],
+        "prepositional_phrases": ["an + Dativ"],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Indikativ"
@@ -113,10 +114,20 @@
             "subject": {
               "de": "Die Abgeordneten",
               "zh": "議員",
-              "gender_number": "pl"
+              "gender_number": "pl",
+              "original_nominative_form": "der Abgeordnete"
             },
             "verb_form": "wirken ... mit",
-            "objects": []
+            "objects": [
+              {
+                "de": "der parlamentarischen Willensbildung",
+                "zh": "議會意志形成",
+                "case": "Dativ",
+                "position": "prepositional",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Willensbildung"
+              }
+            ]
           }
         }
       ]
@@ -134,7 +145,7 @@
         "is_modal": false,
         "gov_preposition": null,
         "prepositional_phrases": [],
-        "is_separable_verb": false,
+        "is_separable_verb": true,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
@@ -146,9 +157,10 @@
             "subject": {
               "de": "das Recht",
               "zh": "權利",
-              "gender_number": "n sg"
+              "gender_number": "n sg",
+              "original_nominative_form": "das Recht"
             },
-            "verb_form": "steht",
+            "verb_form": "steht ... zu",
             "objects": [
               {
                 "de": "Den Abgeordneten",
@@ -156,7 +168,7 @@
                 "case": "Dativ",
                 "position": "indirect",
                 "gender_number": "pl",
-                "original_nominative_form": "die Abgeordneten"
+                "original_nominative_form": "der Abgeordnete"
               }
             ]
           }
@@ -176,7 +188,7 @@
         "is_modal": false,
         "gov_preposition": null,
         "prepositional_phrases": [],
-        "is_separable_verb": false,
+        "is_separable_verb": true,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
@@ -188,9 +200,10 @@
             "subject": {
               "de": "Diese Regelung",
               "zh": "此規定",
-              "gender_number": "f sg"
+              "gender_number": "f sg",
+              "original_nominative_form": "die Regelung"
             },
-            "verb_form": "setzt",
+            "verb_form": "setzt ... voraus",
             "objects": [
               {
                 "de": "hinreichende Informationen",
@@ -198,7 +211,7 @@
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f pl",
-                "original_nominative_form": "hinreichende Informationen"
+                "original_nominative_form": "die Information"
               }
             ]
           }
@@ -230,7 +243,8 @@
             "subject": {
               "de": "Die Abgeordneten",
               "zh": "議員",
-              "gender_number": "pl"
+              "gender_number": "pl",
+              "original_nominative_form": "der Abgeordnete"
             },
             "verb_form": "müssen erlangen",
             "objects": [
@@ -240,7 +254,7 @@
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f pl",
-                "original_nominative_form": "Informationen"
+                "original_nominative_form": "die Information"
               }
             ]
           }
@@ -272,7 +286,8 @@
             "subject": {
               "de": "Die Abgeordneten",
               "zh": "議員",
-              "gender_number": "pl"
+              "gender_number": "pl",
+              "original_nominative_form": "der Abgeordnete"
             },
             "verb_form": "können verarbeiten",
             "objects": [
@@ -282,7 +297,7 @@
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f pl",
-                "original_nominative_form": "Informationen"
+                "original_nominative_form": "die Information"
               }
             ]
           }
@@ -309,12 +324,13 @@
       "examples": [
         {
           "de": "Die Abgeordneten bilden sich eine Meinung",
-          "zh": "議員形成意見",
+          "zh": "議員形成自己的意見",
           "components": {
             "subject": {
               "de": "Die Abgeordneten",
               "zh": "議員",
-              "gender_number": "pl"
+              "gender_number": "pl",
+              "original_nominative_form": "der Abgeordnete"
             },
             "verb_form": "bilden",
             "objects": [
@@ -331,7 +347,7 @@
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f sg",
-                "original_nominative_form": "eine Meinung"
+                "original_nominative_form": "die Meinung"
               }
             ]
           }
@@ -350,22 +366,23 @@
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": "über",
-        "prepositional_phrases": [],
+        "prepositional_phrases": ["über + Akkusativ"],
         "is_separable_verb": false,
         "voice": "Aktiv",
-        "mood": "Indikativ"
+        "mood": "Perfekt"
       },
       "examples": [
         {
           "de": "Der Senat hat nicht entschieden",
-          "zh": "法庭尚未裁決",
+          "zh": "聯邦憲法法院尚未作出裁決",
           "components": {
             "subject": {
               "de": "Der Senat",
-              "zh": "法庭",
-              "gender_number": "m sg"
+              "zh": "聯邦憲法法院",
+              "gender_number": "m sg",
+              "original_nominative_form": "der Senat"
             },
-            "verb_form": "hat entschieden",
+            "verb_form": "hat ... entschieden",
             "objects": []
           }
         }
@@ -375,8 +392,8 @@
       "id": "VP10",
       "lemma": "vorbehalten sein",
       "zh_meanings": {
-        "original": ["保留", "預留"],
-        "contextual": "保留給（權限專屬議會多數）"
+        "original": ["保留", "專屬"],
+        "contextual": "保留給（議會多數的排他性決策權限）"
       },
       "grammar": {
         "case_requirement": "Dativ",
@@ -384,18 +401,18 @@
         "is_modal": false,
         "gov_preposition": null,
         "prepositional_phrases": [],
-        "is_separable_verb": false,
-        "voice": "Aktiv",
+        "is_separable_verb": true,
+        "voice": "Passiv (Zustand)",
         "mood": "Indikativ"
       },
       "examples": [
         {
           "de": "Es ist der Parlamentsmehrheit vorbehalten",
-          "zh": "此權限保留給議會多數",
+          "zh": "此決策權限保留給議會多數",
           "components": {
             "subject": {
               "de": "Es",
-              "zh": "此",
+              "zh": "形式主語",
               "gender_number": "n sg"
             },
             "verb_form": "ist vorbehalten",
@@ -418,7 +435,7 @@
       "lemma": "bestimmen",
       "zh_meanings": {
         "original": ["確定", "規定"],
-        "contextual": "決定（議會決定立法程序）"
+        "contextual": "決定（議會多數決定立法程序）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
@@ -438,7 +455,8 @@
             "subject": {
               "de": "Die Parlamentsmehrheit",
               "zh": "議會多數",
-              "gender_number": "f sg"
+              "gender_number": "f sg",
+              "original_nominative_form": "die Parlamentsmehrheit"
             },
             "verb_form": "bestimmt",
             "objects": [
@@ -448,7 +466,7 @@
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f pl",
-                "original_nominative_form": "die Prioritäten"
+                "original_nominative_form": "die Priorität"
               }
             ]
           }
@@ -460,7 +478,7 @@
       "lemma": "enthalten",
       "zh_meanings": {
         "original": ["包含", "含有"],
-        "contextual": "包含（基本法內容規定）"
+        "contextual": "包含（基本法中未包含具體規定）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
@@ -480,17 +498,18 @@
             "subject": {
               "de": "Das Grundgesetz",
               "zh": "基本法",
-              "gender_number": "n sg"
+              "gender_number": "n sg",
+              "original_nominative_form": "das Grundgesetz"
             },
             "verb_form": "enthält",
             "objects": [
               {
                 "de": "keine Vorgaben",
-                "zh": "無具體規定",
+                "zh": "具體規定",
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f pl",
-                "original_nominative_form": "keine Vorgaben"
+                "original_nominative_form": "die Vorgabe"
               }
             ]
           }
@@ -502,7 +521,7 @@
       "lemma": "bedürfen",
       "zh_meanings": {
         "original": ["需要", "需求"],
-        "contextual": "需要（需考慮個案情況）"
+        "contextual": "需要（立法考量各種具體情況）"
       },
       "grammar": {
         "case_requirement": "Genitiv",
@@ -528,17 +547,23 @@
             "objects": [
               {
                 "de": "der Berücksichtigung aller Umstände",
-                "zh": "所有情況的考慮",
+                "zh": "對所有情況的考慮",
                 "case": "Genitiv",
                 "position": "direct",
                 "gender_number": "f sg",
-                "original_nominative_form": "die Berücksichtigung aller Umstände"
+                "original_nominative_form": "die Berücksichtigung"
               }
             ]
           }
         }
       ]
     }
+
+
+
+
+
+
   ],
   "metadata": {
     "translation_notes": {
@@ -547,21 +572,8 @@
     },
     "source": "BVerfG, NVwZ 2023, 1241",
     "language": "de-zh-TW",
-    "processed_date": "2025-03-25",
+    "processed_date": "2025-03-26",
     "version": "1.5",
-    "total_verbs_extracted": 13,
-    "grammar_analysis": {
-      "cases_distribution": {
-        "Akkusativ": 7,
-        "Dativ": 3,
-        "Genitiv": 2,
-        "no_case_required": 1
-      },
-      "verb_types": {
-        "reflexive": 1,
-        "modal": 2,
-        "with_preposition": 4
-      }
-    }
+    "total_verbs_extracted": 13
   }
 }
