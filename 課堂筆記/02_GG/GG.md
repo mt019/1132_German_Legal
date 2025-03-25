@@ -119,11 +119,11 @@ Rechts：法原則，法理學的「法」
 ***
 
 
-# GG 第 21 條解析 {#gg-21}
+# GG 第 21 條第 1 項解析 {#gg-21-1}
 
-## 條文原文（Artikel 21 GG）
+## 條文原文（Artikel 21 (1) GG） 
 
-**(1)** Die Parteien wirken bei der politischen Willensbildung des Volkes mit.  
+Die Parteien wirken bei der politischen Willensbildung des Volkes mit.  
 Ihre Gründung ist frei.  
 Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen.  
 Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.  
@@ -256,7 +256,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 ***
 
-# GG 第 21 條第 2 款解析   {#gg-21-2}
+# GG 第 21 條第 2 項解析   {#gg-21-2}
 
 ## 條文原文（Artikel 21 (2) GG）  
 
@@ -307,8 +307,9 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 ### **(1) 違憲政黨原則（Parteienverbot）**  
 本條款確立了**違憲政黨的法律定義**，即：
-- **若政黨的目標或支持者的行為試圖破壞或顛覆「自由民主基本秩序」，則該政黨屬於違憲政黨（verfassungswidrig）。**
-- **若政黨試圖危害德國的存續，亦屬違憲。**
+
+- 若政黨的目標或支持者的行為試圖破壞或顛覆「自由民主基本秩序」，則該政黨屬於違憲政黨（verfassungswidrig）。
+- 若政黨試圖危害德國的存續，亦屬違憲。
 
 這一規定源於二戰後德國的歷史經驗，防止極端政黨（如納粹黨）再次崛起。
 
@@ -316,6 +317,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 ### **(2) 何謂「自由民主基本秩序」（freiheitliche demokratische Grundordnung, FDGO）？**  
 德國憲法法院（BVerfG）在多項判決中明確界定，**FDGO 包括以下基本原則**：
+
 1. **人民主權（Volkssouveränität）** → 國家權力來自人民。  
 2. **法治國原則（Rechtsstaatlichkeit）** → 國家權力受法律約束。  
 3. **權力分立（Gewaltenteilung）** → 立法、行政、司法獨立運作。  
@@ -328,6 +330,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 ### **(3) 違憲政黨的解散程序**  
 根據 **《基本法》第 21(2) 條**，違憲政黨的解散程序如下：
+
 1. **申請解散（Verbot beantragen）**：
    - 只有**聯邦議院（Bundestag）、聯邦參議院（Bundesrat）或聯邦政府（Bundesregierung）**有權向**聯邦憲法法院（BVerfG）**提出政黨禁令申請。
   
@@ -362,6 +365,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 | **中國** | ❌ 不允許多黨制 | 只允許執政黨運作 | ❌ 無合法反對黨 |
 
 **結論：**
+
 - 德國對極端政黨的限制較嚴格，確保民主制度不被顛覆。
 - 美國則認為**言論自由高於政黨取締，因此不禁止極端政黨**。
 
