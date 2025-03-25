@@ -12,6 +12,7 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
+  - ./Python_Script/output_verbs_tw.md
   - ./課堂筆記/00_Weekly/W01_0218.md
   - ./課堂筆記/00_Weekly/W05_0318.md
   - ./課堂筆記/00_Weekly/W06_0325.md
@@ -28,7 +29,12 @@ rmd_files:
   - ./課堂筆記/01_Staatsrecht選讀/Rn_348.md
   - ./課堂筆記/01_Staatsrecht選讀/Rn_349.md
   - ./課堂筆記/01_Staatsrecht選讀/Rn_350.md
-  - ./課堂筆記/02_GG/GG.md
-  - ./課堂筆記/03_附錄/01_條項款.md
-  - ./課堂筆記/03_附錄/憲法和基本法.md
-  - ./課堂筆記/03_附錄/文獻中引註格式.md
+  - ./課堂筆記/03_判決解析/Rn_88.md
+  - ./課堂筆記/03_判決解析/Rn_89.md
+  - ./課堂筆記/03_判決解析/Rn_90.md
+  - ./課堂筆記/03_判決解析/Source.md
+  - ./課堂筆記/03_判決解析/謂語短語搭配彙整.md
+  - ./課堂筆記/10_GG/GG.md
+  - ./課堂筆記/A_附錄/01_條項款.md
+  - ./課堂筆記/A_附錄/憲法和基本法.md
+  - ./課堂筆記/A_附錄/文獻中引註格式.md

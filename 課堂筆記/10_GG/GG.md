@@ -12,7 +12,7 @@
 
 **(4)** Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.  
 
----
+
 
 ## 條文翻譯
 
@@ -23,7 +23,6 @@
 3. **立法須遵守憲法秩序，行政與司法須受法律與正義的約束。**  
 4. **針對任何企圖顛覆這一憲政秩序的人，所有德國人享有抵抗的權利，當其他救濟方式皆無效時。**  
 
----
 
 ## 條文解析
 
