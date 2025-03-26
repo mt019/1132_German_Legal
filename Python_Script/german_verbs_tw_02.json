@@ -4,30 +4,28 @@
       "id": "VP1",
       "lemma": "garantieren",
       "zh_meanings": {
-        "original": ["保證", "擔保", "確保"],
-        "contextual": "保障（憲法對議員平等地位的正式保障）"
+        "original": ["保障", "保證"],
+        "contextual": "保障（憲法條款對議員平等地位的正式全面保障）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Art. 38 I 2 GG garantiert den Status der Gleichheit der Abgeordneten",
-          "zh": "《基本法》第38條第1項第2句保障議員的平等地位",
+          "de": "Art. 38 I 2 GG garantiert den Status der Gleichheit der Abgeordneten.",
+          "zh": "《基本法》第38條第1項第2句保障議員的平等地位。",
           "components": {
             "subject": {
               "de": "Art. 38 I 2 GG",
               "zh": "《基本法》第38條第1項第2句",
               "gender_number": "m sg",
-              "legal_entity": true,
-              "entity_type": "constitutional_article"
+              "original_nominative_form": "der Artikel 38"
             },
             "verb_form": "garantiert",
             "objects": [
@@ -40,52 +38,70 @@
                 "original_nominative_form": "der Status"
               }
             ]
-          },
-          "legal_citations": ["BVerfGE 70, 324"]
+          }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP2",
       "lemma": "berufen sein",
       "zh_meanings": {
-        "original": ["被召喚", "被任命"],
-        "contextual": "被賦予資格（議員被憲法賦予參與權）"
+        "original": ["被任命", "被賦予任務"],
+        "contextual": "被賦予...資格（議員被憲法賦予平等參與意志形成的權利）"
       },
       "grammar": {
         "case_requirement": null,
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": "zu",
-        "prepositional_phrases": [],
         "is_separable_verb": false,
-        "voice": "Aktiv",
+        "voice": "Passiv (Zustandspassiv)",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Alle Abgeordneten sind berufen, an der Willensbildung mitzuwirken",
-          "zh": "全體議員被賦予參與議會意志形成的資格",
+          "de": "Alle Abgeordneten sind berufen, an der Willensbildung mitzuwirken.",
+          "zh": "所有議員被賦予參與意志形成的資格。",
           "components": {
             "subject": {
               "de": "Alle Abgeordneten",
-              "zh": "全體議員",
+              "zh": "所有議員",
               "gender_number": "pl",
-              "original_nominative_form": "der Abgeordnete",
-              "legal_entity": true,
-              "entity_type": "parliament_members"
+              "original_nominative_form": "der Abgeordnete"
             },
             "verb_form": "sind berufen",
-            "objects": [],
-            "infinitive_phrases": [
-              {
-                "de": "an der Willensbildung mitzuwirken",
-                "zh": "參與議會意志形成",
-                "subject_reference": "Alle Abgeordneten"
-              }
-            ]
-          },
-          "legal_citations": ["BVerfGE 70, 324"]
+            "objects": []
+          }
+        }
+      ],
+      "prepositional_phrases": [
+        {
+          "preposition": "zu",
+          "case": "Dativ",
+          "example": {
+            "de": "Die Abgeordneten sind zu gleichmäßiger Teilhabe an der Willensbildung berufen.",
+            "zh": "議員被賦予平等參與意志形成的資格。",
+            "components": {
+              "subject": {
+                "de": "Die Abgeordneten",
+                "zh": "議員",
+                "gender_number": "pl",
+                "original_nominative_form": "der Abgeordnete"
+              },
+              "verb_form": "sind ... berufen",
+              "objects": [
+                {
+                  "de": "zu gleichmäßiger Teilhabe",
+                  "zh": "平等參與",
+                  "case": "Dativ",
+                  "position": "prepositional",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Teilhabe"
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -93,23 +109,22 @@
       "id": "VP3",
       "lemma": "mitwirken",
       "zh_meanings": {
-        "original": ["協作", "參與"],
-        "contextual": "參與（議會意志形成過程）"
+        "original": ["參與", "協作", "合作"],
+        "contextual": "參與決策（特別是議會意志形成）"
       },
       "grammar": {
         "case_requirement": null,
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": "an",
-        "prepositional_phrases": ["an + Dativ"],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Die Abgeordneten wirken an der parlamentarischen Willensbildung mit",
-          "zh": "議員參與議會意志形成",
+          "de": "Die Abgeordneten wirken an der parlamentarischen Willensbildung mit.",
+          "zh": "議員參與議會意志形成。",
           "components": {
             "subject": {
               "de": "Die Abgeordneten",
@@ -120,7 +135,7 @@
             "verb_form": "wirken ... mit",
             "objects": [
               {
-                "de": "der parlamentarischen Willensbildung",
+                "de": "an der parlamentarischen Willensbildung",
                 "zh": "議會意志形成",
                 "case": "Dativ",
                 "position": "prepositional",
@@ -130,29 +145,57 @@
             ]
           }
         }
+      ],
+      "prepositional_phrases": [
+        {
+          "preposition": "an",
+          "case": "Dativ",
+          "example": {
+            "de": "Die Mitglieder wirken an dem Gesetzgebungsprozess mit.",
+            "zh": "成員參與立法程序。",
+            "components": {
+              "subject": {
+                "de": "Die Mitglieder",
+                "zh": "成員",
+                "gender_number": "pl",
+                "original_nominative_form": "das Mitglied"
+              },
+              "verb_form": "wirken ... mit",
+              "objects": [
+                {
+                  "de": "an dem Gesetzgebungsprozess",
+                  "zh": "立法程序",
+                  "case": "Dativ",
+                  "position": "prepositional",
+                  "gender_number": "m sg",
+                  "original_nominative_form": "der Gesetzgebungsprozess"
+                }
+              ]
+            }
+          }
+        }
       ]
     },
     {
       "id": "VP4",
       "lemma": "zustehen",
       "zh_meanings": {
-        "original": ["屬於", "應得"],
-        "contextual": "享有（議員享有法定權利）"
+        "original": ["屬於", "應得", "享有"],
+        "contextual": "享有（法律上保障的權利）"
       },
       "grammar": {
         "case_requirement": "Dativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": true,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Den Abgeordneten steht das Recht zu, abzustimmen",
-          "zh": "議員享有表決權",
+          "de": "Den Abgeordneten steht das Recht zu, abzustimmen.",
+          "zh": "議員享有表決的權利。",
           "components": {
             "subject": {
               "de": "das Recht",
@@ -173,33 +216,33 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP5",
       "lemma": "voraussetzen",
       "zh_meanings": {
-        "original": ["預設", "假定"],
-        "contextual": "以...為前提（需充分資訊的法定要求）"
+        "original": ["預設", "以...為前提"],
+        "contextual": "以（充分資訊）為條件（作為有效審議的必要條件）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": true,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Diese Regelung setzt hinreichende Informationen voraus",
-          "zh": "此規定以充分資訊為前提",
+          "de": "Diese Regelung setzt hinreichende Informationen voraus.",
+          "zh": "該規定以充分資訊為前提。",
           "components": {
             "subject": {
               "de": "Diese Regelung",
-              "zh": "此規定",
+              "zh": "該規定",
               "gender_number": "f sg",
               "original_nominative_form": "die Regelung"
             },
@@ -216,29 +259,30 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
+
     {
       "id": "VP6",
       "lemma": "erlangen",
       "zh_meanings": {
         "original": ["獲得", "取得"],
-        "contextual": "獲取（議員獲取立法資訊）"
+        "contextual": "獲取資訊（議員必須取得充分立法資訊）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
-        "mood": "Indikativ"
+        "mood": "Infinitiv"
       },
       "examples": [
         {
-          "de": "Die Abgeordneten müssen Informationen erlangen",
-          "zh": "議員必須獲取資訊",
+          "de": "Die Abgeordneten müssen Informationen erlangen.",
+          "zh": "議員必須獲取資訊。",
           "components": {
             "subject": {
               "de": "Die Abgeordneten",
@@ -259,29 +303,29 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP7",
       "lemma": "verarbeiten",
       "zh_meanings": {
-        "original": ["加工", "處理"],
-        "contextual": "處理（議員消化立法資訊）"
+        "original": ["處理", "消化"],
+        "contextual": "處理立法資訊（議員需能消化資訊）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
-        "mood": "Indikativ"
+        "mood": "Infinitiv + Modal"
       },
       "examples": [
         {
-          "de": "Die Abgeordneten können Informationen verarbeiten",
-          "zh": "議員能夠處理資訊",
+          "de": "Die Abgeordneten können Informationen verarbeiten.",
+          "zh": "議員能夠處理資訊。",
           "components": {
             "subject": {
               "de": "Die Abgeordneten",
@@ -302,29 +346,29 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP8",
-      "lemma": "bilden",
+      "lemma": "sich bilden",
       "zh_meanings": {
-        "original": ["形成", "構成"],
-        "contextual": "形成（議員基於資訊形成意見）"
+        "original": ["形成", "建立"],
+        "contextual": "形成意見（議員基於資訊形成自己的看法）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": true,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
-        "mood": "Indikativ"
+        "mood": "Infinitiv"
       },
       "examples": [
         {
-          "de": "Die Abgeordneten bilden sich eine Meinung",
-          "zh": "議員形成自己的意見",
+          "de": "Die Abgeordneten sollen sich eine eigene Meinung bilden.",
+          "zh": "議員應該形成自己的意見。",
           "components": {
             "subject": {
               "de": "Die Abgeordneten",
@@ -332,18 +376,18 @@
               "gender_number": "pl",
               "original_nominative_form": "der Abgeordnete"
             },
-            "verb_form": "bilden",
+            "verb_form": "sollen sich bilden",
             "objects": [
               {
                 "de": "sich",
-                "zh": "反身代詞",
+                "zh": "自己（反身代詞）",
                 "case": "Akkusativ",
                 "position": "reflexive",
                 "type": "reflexive_pronoun"
               },
               {
-                "de": "eine Meinung",
-                "zh": "意見",
+                "de": "eine eigene Meinung",
+                "zh": "一個自己的意見",
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f sg",
@@ -352,29 +396,29 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP9",
       "lemma": "entscheiden",
       "zh_meanings": {
         "original": ["決定", "裁決"],
-        "contextual": "裁決（憲法法院作出判決）"
+        "contextual": "裁決（憲法法院就立法程序中的權利約束問題作出判決）"
       },
       "grammar": {
         "case_requirement": null,
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": "über",
-        "prepositional_phrases": ["über + Akkusativ"],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Perfekt"
       },
       "examples": [
         {
-          "de": "Der Senat hat nicht entschieden",
-          "zh": "聯邦憲法法院尚未作出裁決",
+          "de": "Der Senat hat nicht entschieden.",
+          "zh": "聯邦憲法法院尚未作出裁決。",
           "components": {
             "subject": {
               "de": "Der Senat",
@@ -386,6 +430,35 @@
             "objects": []
           }
         }
+      ],
+      "prepositional_phrases": [
+        {
+          "preposition": "über",
+          "case": "Akkusativ",
+          "example": {
+            "de": "Das Gericht entscheidet über die Verfassungsbeschwerde.",
+            "zh": "法院裁決憲法申訴案。",
+            "components": {
+              "subject": {
+                "de": "Das Gericht",
+                "zh": "法院",
+                "gender_number": "n sg",
+                "original_nominative_form": "das Gericht"
+              },
+              "verb_form": "entscheidet",
+              "objects": [
+                {
+                  "de": "über die Verfassungsbeschwerde",
+                  "zh": "憲法申訴案",
+                  "case": "Akkusativ",
+                  "position": "prepositional",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Verfassungsbeschwerde"
+                }
+              ]
+            }
+          }
+        }
       ]
     },
     {
@@ -393,29 +466,28 @@
       "lemma": "vorbehalten sein",
       "zh_meanings": {
         "original": ["保留", "專屬"],
-        "contextual": "保留給（議會多數的排他性決策權限）"
+        "contextual": "保留給議會多數（例如立法程序主導權）"
       },
       "grammar": {
         "case_requirement": "Dativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": true,
-        "voice": "Passiv (Zustand)",
+        "voice": "Passiv (Zustandspassiv)",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Es ist der Parlamentsmehrheit vorbehalten",
-          "zh": "此決策權限保留給議會多數",
+          "de": "Es ist der Parlamentsmehrheit vorbehalten.",
+          "zh": "該權限保留給議會多數。",
           "components": {
             "subject": {
               "de": "Es",
-              "zh": "形式主語",
+              "zh": "形式主詞",
               "gender_number": "n sg"
             },
-            "verb_form": "ist vorbehalten",
+            "verb_form": "ist ... vorbehalten",
             "objects": [
               {
                 "de": "der Parlamentsmehrheit",
@@ -428,29 +500,29 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP11",
       "lemma": "bestimmen",
       "zh_meanings": {
-        "original": ["確定", "規定"],
-        "contextual": "決定（議會多數決定立法程序）"
+        "original": ["決定", "規定", "指定"],
+        "contextual": "決定優先順序與立法流程（由議會多數負責）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Die Parlamentsmehrheit bestimmt die Prioritäten",
-          "zh": "議會多數決定優先事項",
+          "de": "Die Parlamentsmehrheit bestimmt die Prioritäten und Abläufe.",
+          "zh": "議會多數決定優先事項與流程。",
           "components": {
             "subject": {
               "de": "Die Parlamentsmehrheit",
@@ -461,39 +533,39 @@
             "verb_form": "bestimmt",
             "objects": [
               {
-                "de": "die Prioritäten",
-                "zh": "優先事項",
+                "de": "die Prioritäten und Abläufe",
+                "zh": "優先事項與流程",
                 "case": "Akkusativ",
                 "position": "direct",
                 "gender_number": "f pl",
-                "original_nominative_form": "die Priorität"
+                "original_nominative_form": "die Priorität / der Ablauf"
               }
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP12",
       "lemma": "enthalten",
       "zh_meanings": {
         "original": ["包含", "含有"],
-        "contextual": "包含（基本法中未包含具體規定）"
+        "contextual": "未包含（基本法未包含具體條文或規定）"
       },
       "grammar": {
         "case_requirement": "Akkusativ",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Das Grundgesetz enthält keine Vorgaben",
-          "zh": "基本法未包含具體規定",
+          "de": "Das Grundgesetz enthält keine Vorgaben.",
+          "zh": "基本法未包含具體規定。",
           "components": {
             "subject": {
               "de": "Das Grundgesetz",
@@ -514,40 +586,40 @@
             ]
           }
         }
-      ]
+      ],
+      "prepositional_phrases": []
     },
     {
       "id": "VP13",
       "lemma": "bedürfen",
       "zh_meanings": {
         "original": ["需要", "需求"],
-        "contextual": "需要（立法考量各種具體情況）"
+        "contextual": "需要考慮（立法需考慮所有情況）"
       },
       "grammar": {
         "case_requirement": "Genitiv",
         "is_reflexive": false,
         "is_modal": false,
         "gov_preposition": null,
-        "prepositional_phrases": [],
         "is_separable_verb": false,
         "voice": "Aktiv",
         "mood": "Indikativ"
       },
       "examples": [
         {
-          "de": "Es bedarf der Berücksichtigung aller Umstände",
-          "zh": "需要考慮所有情況",
+          "de": "Es bedarf der Berücksichtigung sämtlicher Umstände.",
+          "zh": "需要考慮所有情況。",
           "components": {
             "subject": {
               "de": "Es",
-              "zh": "形式主語",
+              "zh": "形式主詞",
               "gender_number": "n sg"
             },
             "verb_form": "bedarf",
             "objects": [
               {
-                "de": "der Berücksichtigung aller Umstände",
-                "zh": "對所有情況的考慮",
+                "de": "der Berücksichtigung sämtlicher Umstände",
+                "zh": "所有情況的考慮",
                 "case": "Genitiv",
                 "position": "direct",
                 "gender_number": "f sg",
@@ -556,12 +628,194 @@
             ]
           }
         }
+      ],
+      "prepositional_phrases": []
+    },
+    {
+      "id": "VP14",
+      "lemma": "abstimmen",
+      "zh_meanings": {
+        "original": ["表決", "投票"],
+        "contextual": "表決（議員就法律提案行使投票權）"
+      },
+      "grammar": {
+        "case_requirement": null,
+        "is_reflexive": false,
+        "is_modal": false,
+        "gov_preposition": "über",
+        "is_separable_verb": false,
+        "voice": "Aktiv",
+        "mood": "Infinitiv"
+      },
+      "examples": [
+        {
+          "de": "Den Abgeordneten steht das Recht zu, abzustimmen.",
+          "zh": "議員享有表決權。",
+          "components": {
+            "subject": {
+              "de": "das Recht",
+              "zh": "權利",
+              "gender_number": "n sg",
+              "original_nominative_form": "das Recht"
+            },
+            "verb_form": "abzustimmen",
+            "objects": []
+          }
+        }
+      ],
+      "prepositional_phrases": [
+        {
+          "preposition": "über",
+          "case": "Akkusativ",
+          "example": {
+            "de": "Die Abgeordneten stimmen über den Gesetzesentwurf ab.",
+            "zh": "議員對法案草案進行表決。",
+            "components": {
+              "subject": {
+                "de": "Die Abgeordneten",
+                "zh": "議員",
+                "gender_number": "pl",
+                "original_nominative_form": "der Abgeordnete"
+              },
+              "verb_form": "stimmen ... ab",
+              "objects": [
+                {
+                  "de": "über den Gesetzesentwurf",
+                  "zh": "法案草案",
+                  "case": "Akkusativ",
+                  "position": "prepositional",
+                  "gender_number": "m sg",
+                  "original_nominative_form": "der Gesetzesentwurf"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "VP15",
+      "lemma": "beraten",
+      "zh_meanings": {
+        "original": ["討論", "審議"],
+        "contextual": "審議（議員對法律草案進行審議）"
+      },
+      "grammar": {
+        "case_requirement": null,
+        "is_reflexive": false,
+        "is_modal": false,
+        "gov_preposition": "über",
+        "is_separable_verb": false,
+        "voice": "Aktiv",
+        "mood": "Infinitiv"
+      },
+      "examples": [
+        {
+          "de": "Den Abgeordneten steht auch das Recht zu, zu beraten.",
+          "zh": "議員也有權進行審議。",
+          "components": {
+            "subject": {
+              "de": "das Recht",
+              "zh": "權利",
+              "gender_number": "n sg",
+              "original_nominative_form": "das Recht"
+            },
+            "verb_form": "zu beraten",
+            "objects": []
+          }
+        }
+      ],
+      "prepositional_phrases": [
+        {
+          "preposition": "über",
+          "case": "Akkusativ",
+          "example": {
+            "de": "Der Bundestag berät über den Gesetzentwurf.",
+            "zh": "聯邦議會審議法案草案。",
+            "components": {
+              "subject": {
+                "de": "Der Bundestag",
+                "zh": "聯邦議會",
+                "gender_number": "m sg",
+                "original_nominative_form": "der Bundestag"
+              },
+              "verb_form": "berät",
+              "objects": [
+                {
+                  "de": "über den Gesetzentwurf",
+                  "zh": "法案草案",
+                  "case": "Akkusativ",
+                  "position": "prepositional",
+                  "gender_number": "m sg",
+                  "original_nominative_form": "der Gesetzentwurf"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "VP16",
+      "lemma": "verhandeln",
+      "zh_meanings": {
+        "original": ["交涉", "談判"],
+        "contextual": "討論（議員就立法議題進行討論）"
+      },
+      "grammar": {
+        "case_requirement": null,
+        "is_reflexive": false,
+        "is_modal": false,
+        "gov_preposition": "über",
+        "is_separable_verb": false,
+        "voice": "Aktiv",
+        "mood": "Infinitiv"
+      },
+      "examples": [
+        {
+          "de": "Sie haben das Recht, zu verhandeln.",
+          "zh": "他們擁有討論的權利。",
+          "components": {
+            "subject": {
+              "de": "sie",
+              "zh": "他們",
+              "gender_number": "pl"
+            },
+            "verb_form": "zu verhandeln",
+            "objects": []
+          }
+        }
+      ],
+      "prepositional_phrases": [
+        {
+          "preposition": "über",
+          "case": "Akkusativ",
+          "example": {
+            "de": "Die Ausschüsse verhandeln über das Gesetz.",
+            "zh": "委員會就該法案進行討論。",
+            "components": {
+              "subject": {
+                "de": "Die Ausschüsse",
+                "zh": "委員會",
+                "gender_number": "pl",
+                "original_nominative_form": "der Ausschuss"
+              },
+              "verb_form": "verhandeln",
+              "objects": [
+                {
+                  "de": "über das Gesetz",
+                  "zh": "該法案",
+                  "case": "Akkusativ",
+                  "position": "prepositional",
+                  "gender_number": "n sg",
+                  "original_nominative_form": "das Gesetz"
+                }
+              ]
+            }
+          }
+        }
       ]
     }
-
-
-
-
 
 
   ],
