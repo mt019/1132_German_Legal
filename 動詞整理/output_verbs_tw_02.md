@@ -1,4 +1,4 @@
-# **動詞整理（含介詞支配）**
+# **判決中的動詞整理（含介詞支配）** {#verbs-in-judgments}
 
 
 ## garantieren
