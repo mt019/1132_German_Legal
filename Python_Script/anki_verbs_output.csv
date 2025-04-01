@@ -1,0 +1,45 @@
+德文動詞,中文意義,語法特性,例句（德文）,例句（中文）,支配介詞搭配
+garantieren,"原意：保障, 保證
+語境意義：保障（憲法條款對議員平等地位的正式全面保障）",受詞格位：Akkusativ,Art. 38 I 2 GG garantiert den Status der Gleichheit der Abgeordneten.,《基本法》第38條第1項第2句保障議員的平等地位。,
+berufen sein,"原意：被任命, 被賦予任務
+語境意義：被賦予...資格（議員被憲法賦予平等參與意志形成的權利）",支配介詞：zu,"Alle Abgeordneten sind berufen, an der Willensbildung mitzuwirken.",所有議員被賦予參與意志形成的資格。,
+berufen sein,"原意：被任命, 被賦予任務
+語境意義：被賦予...資格（議員被憲法賦予平等參與意志形成的權利）",支配介詞：zu,Die Abgeordneten sind zu gleichmäßiger Teilhabe an der Willensbildung berufen.,議員被賦予平等參與意志形成的資格。,zu + Dativ
+mitwirken,"原意：參與, 協作, 合作
+語境意義：參與決策（特別是議會意志形成）",支配介詞：an,Die Abgeordneten wirken an der parlamentarischen Willensbildung mit.,議員參與議會意志形成。,
+mitwirken,"原意：參與, 協作, 合作
+語境意義：參與決策（特別是議會意志形成）",支配介詞：an,Die Mitglieder wirken an dem Gesetzgebungsprozess mit.,成員參與立法程序。,an + Dativ
+zustehen,"原意：屬於, 應得, 享有
+語境意義：享有（法律上保障的權利）",受詞格位：Dativ; 分離動詞,"Den Abgeordneten steht das Recht zu, abzustimmen.",議員享有表決的權利。,
+voraussetzen,"原意：預設, 以...為前提
+語境意義：以（充分資訊）為條件（作為有效審議的必要條件）",受詞格位：Akkusativ; 分離動詞,Diese Regelung setzt hinreichende Informationen voraus.,該規定以充分資訊為前提。,
+erlangen,"原意：獲得, 取得
+語境意義：獲取資訊（議員必須取得充分立法資訊）",受詞格位：Akkusativ,Die Abgeordneten müssen Informationen erlangen.,議員必須獲取資訊。,
+verarbeiten,"原意：處理, 消化
+語境意義：處理立法資訊（議員需能消化資訊）",受詞格位：Akkusativ,Die Abgeordneten können Informationen verarbeiten.,議員能夠處理資訊。,
+sich bilden,"原意：形成, 建立
+語境意義：形成意見（議員基於資訊形成自己的看法）",受詞格位：Akkusativ; 反身動詞,Die Abgeordneten sollen sich eine eigene Meinung bilden.,議員應該形成自己的意見。,
+entscheiden,"原意：決定, 裁決
+語境意義：裁決（憲法法院就立法程序中的權利約束問題作出判決）",支配介詞：über,Der Senat hat nicht entschieden.,聯邦憲法法院尚未作出裁決。,
+entscheiden,"原意：決定, 裁決
+語境意義：裁決（憲法法院就立法程序中的權利約束問題作出判決）",支配介詞：über,Das Gericht entscheidet über die Verfassungsbeschwerde.,法院裁決憲法申訴案。,über + Akkusativ
+vorbehalten sein,"原意：保留, 專屬
+語境意義：保留給議會多數（例如立法程序主導權）",受詞格位：Dativ; 分離動詞,Es ist der Parlamentsmehrheit vorbehalten.,該權限保留給議會多數。,
+bestimmen,"原意：決定, 規定, 指定
+語境意義：決定優先順序與立法流程（由議會多數負責）",受詞格位：Akkusativ,Die Parlamentsmehrheit bestimmt die Prioritäten und Abläufe.,議會多數決定優先事項與流程。,
+enthalten,"原意：包含, 含有
+語境意義：未包含（基本法未包含具體條文或規定）",受詞格位：Akkusativ,Das Grundgesetz enthält keine Vorgaben.,基本法未包含具體規定。,
+bedürfen,"原意：需要, 需求
+語境意義：需要考慮（立法需考慮所有情況）",受詞格位：Genitiv,Es bedarf der Berücksichtigung sämtlicher Umstände.,需要考慮所有情況。,
+abstimmen,"原意：表決, 投票
+語境意義：表決（議員就法律提案行使投票權）",支配介詞：über,"Den Abgeordneten steht das Recht zu, abzustimmen.",議員享有表決權。,
+abstimmen,"原意：表決, 投票
+語境意義：表決（議員就法律提案行使投票權）",支配介詞：über,Die Abgeordneten stimmen über den Gesetzesentwurf ab.,議員對法案草案進行表決。,über + Akkusativ
+beraten,"原意：討論, 審議
+語境意義：審議（議員對法律草案進行審議）",支配介詞：über,"Den Abgeordneten steht auch das Recht zu, zu beraten.",議員也有權進行審議。,
+beraten,"原意：討論, 審議
+語境意義：審議（議員對法律草案進行審議）",支配介詞：über,Der Bundestag berät über den Gesetzentwurf.,聯邦議會審議法案草案。,über + Akkusativ
+verhandeln,"原意：交涉, 談判
+語境意義：討論（議員就立法議題進行討論）",支配介詞：über,"Sie haben das Recht, zu verhandeln.",他們擁有討論的權利。,
+verhandeln,"原意：交涉, 談判
+語境意義：討論（議員就立法議題進行討論）",支配介詞：über,Die Ausschüsse verhandeln über das Gesetz.,委員會就該法案進行討論。,über + Akkusativ
