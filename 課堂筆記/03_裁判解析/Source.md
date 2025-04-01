@@ -1,3 +1,6 @@
+# Beschluss Rn 88-90
+
+
 BVerfG: Erfolgreicher Eilantrag gegen Gestaltung eines Gesetzgebungsverfahrens – Gebäudeenergiegesetz (NVwZ 2023, 1241) 1244
 
 88
