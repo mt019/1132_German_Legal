@@ -12,9 +12,7 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
-  - ./動詞整理/00_動詞標題.md
-  - ./動詞整理/output_verbs_01.md
-  - ./動詞整理/output_verbs_02.md
+  - ./動詞合併整理/merged_verbs.md
   - ./課堂筆記/00_Weekly/W01_0218.md
   - ./課堂筆記/00_Weekly/W05_0318.md
   - ./課堂筆記/00_Weekly/W06_0325.md
