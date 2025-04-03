@@ -340,7 +340,7 @@
         "id": "VP8",
         "lemma": "erscheinen",
         "zh_meanings": {
-          "original": ["顯得", "看起來"],
+          "original": ["系動詞用法：顯得，+補語", "看起來"],
           "contextual": "在審查中顯示為具有某種可能性或開放性"
         },
         "grammar": {
@@ -367,7 +367,7 @@
               "objects": [
                 {
                   "de": "offen",
-                  "zh": "未定",
+                  "zh": "未定的（形容詞作補語）",
                   "case": null,
                   "position": "predicate adjective",
                   "gender_number": null,

@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   includes:
+    in_header: google_verification.html
     after_body: custom_def.html
   mathjax: default
   config:
