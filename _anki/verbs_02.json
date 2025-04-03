@@ -1,0 +1,638 @@
+{
+    "verb_phrases": [
+      {
+        "id": "VP1",
+        "lemma": "zustehen",
+        "zh_meanings": {
+          "original": ["屬於（某人權利）", "有...資格"],
+          "contextual": "（某權限或空間）依法屬於某機關"
+        },
+        "grammar": {
+          "case_requirement": "Dativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": true,
+          "voice": "Aktiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Der Parlamentsmehrheit steht ein weiter Gestaltungsspielraum zu.",
+            "zh": "議會多數擁有廣泛的程序設計空間。",
+            "components": {
+              "subject": {
+                "de": "ein weiter Gestaltungsspielraum",
+                "zh": "廣泛的設計空間",
+                "gender_number": "m sg",
+                "original_nominative_form": "der Gestaltungsspielraum"
+              },
+              "verb_form": "steht ... zu",
+              "objects": [
+                {
+                  "de": "der Parlamentsmehrheit",
+                  "zh": "議會多數",
+                  "case": "Dativ",
+                  "position": "indirect",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Parlamentsmehrheit"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP2",
+        "lemma": "entbinden",
+        "zh_meanings": {
+          "original": ["解除", "豁免"],
+          "contextual": "使其不再受某一法律義務之拘束"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": "von",
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Konjunktiv"
+        },
+        "examples": [
+          {
+            "de": "Die Verfahrensautonomie entbindet die Parlamentsmehrheit nicht von der Beachtung des Status.",
+            "zh": "程序自主權並不使議會多數免除遵守議員平等地位的義務。",
+            "components": {
+              "subject": {
+                "de": "die Verfahrensautonomie",
+                "zh": "程序自主權",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Verfahrensautonomie"
+              },
+              "verb_form": "entbindet",
+              "objects": [
+                {
+                  "de": "die Parlamentsmehrheit",
+                  "zh": "議會多數",
+                  "case": "Akkusativ",
+                  "position": "direct",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Parlamentsmehrheit"
+                },
+                {
+                  "de": "von der Beachtung des Status",
+                  "zh": "遵守地位的義務",
+                  "case": "Dativ",
+                  "position": "prepositional",
+                  "gender_number": "m sg",
+                  "original_nominative_form": "der Status"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": [
+          {
+            "preposition": "von",
+            "case": "Dativ",
+            "example": {
+              "de": "Die Regelung entbindet den Ausschuss von seiner Kontrollpflicht.",
+              "zh": "該規定使委員會免除其監督義務。",
+              "components": {
+                "subject": {
+                  "de": "die Regelung",
+                  "zh": "規定",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Regelung"
+                },
+                "verb_form": "entbindet",
+                "objects": [
+                  {
+                    "de": "den Ausschuss",
+                    "zh": "委員會",
+                    "case": "Akkusativ",
+                    "position": "direct",
+                    "gender_number": "m sg",
+                    "original_nominative_form": "der Ausschuss"
+                  },
+                  {
+                    "de": "von seiner Kontrollpflicht",
+                    "zh": "監督義務",
+                    "case": "Dativ",
+                    "position": "prepositional",
+                    "gender_number": "f sg",
+                    "original_nominative_form": "die Kontrollpflicht"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "VP3",
+        "lemma": "missachten",
+        "zh_meanings": {
+          "original": ["忽視", "無視", "不顧"],
+          "contextual": "未遵守憲法或法律要求"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Die Parlamentsmehrheit missachtet den Status der Gleichheit der Abgeordneten.",
+            "zh": "議會多數忽視了議員平等地位的地位。",
+            "components": {
+              "subject": {
+                "de": "die Parlamentsmehrheit",
+                "zh": "議會多數",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Parlamentsmehrheit"
+              },
+              "verb_form": "missachtet",
+              "objects": [
+                {
+                  "de": "den Status der Gleichheit der Abgeordneten",
+                  "zh": "議員平等地位的地位",
+                  "case": "Akkusativ",
+                  "position": "direct",
+                  "gender_number": "m sg",
+                  "original_nominative_form": "der Status"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP4",
+        "lemma": "verletzen",
+        "zh_meanings": {
+          "original": ["傷害", "違反", "侵犯"],
+          "contextual": "違反基本法保障的議員權利"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Passiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Das Abgeordnetenrecht wird verletzt.",
+            "zh": "議員權利受到侵犯。",
+            "components": {
+              "subject": {
+                "de": "das Abgeordnetenrecht",
+                "zh": "議員權利",
+                "gender_number": "n sg",
+                "original_nominative_form": "das Abgeordnetenrecht"
+              },
+              "verb_form": "wird verletzt",
+              "objects": []
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP5",
+        "lemma": "missbrauchen",
+        "zh_meanings": {
+          "original": ["濫用", "誤用"],
+          "contextual": "違法或不當地使用程序權限"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Infinitiv + zu",
+          "mood": "Infinitiv"
+        },
+        "examples": [
+          {
+            "de": "Es besteht die Möglichkeit, die Verfahrensautonomie zu missbrauchen.",
+            "zh": "存在濫用程序自主權的可能性。",
+            "components": {
+              "subject": {
+                "de": "die Möglichkeit",
+                "zh": "可能性",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Möglichkeit"
+              },
+              "verb_form": "zu missbrauchen",
+              "objects": [
+                {
+                  "de": "die Verfahrensautonomie",
+                  "zh": "程序自主權",
+                  "case": "Akkusativ",
+                  "position": "direct",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Verfahrensautonomie"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP6",
+        "lemma": "einschränken",
+        "zh_meanings": {
+          "original": ["限制", "縮小"],
+          "contextual": "縮減議員的參與權限"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Infinitiv + zu",
+          "mood": "Infinitiv"
+        },
+        "examples": [
+          {
+            "de": "Ziel war es, die Teilhaberechte der Abgeordneten einzuschränken.",
+            "zh": "目的是限制議員的參與權利。",
+            "components": {
+              "subject": {
+                "de": "es",
+                "zh": "這（指前文提及的目的）",
+                "gender_number": "n sg",
+                "original_nominative_form": "es"
+              },
+              "verb_form": "einzuschränken",
+              "objects": [
+                {
+                  "de": "die Teilhaberechte der Abgeordneten",
+                  "zh": "議員的參與權",
+                  "case": "Akkusativ",
+                  "position": "direct",
+                  "gender_number": "n pl",
+                  "original_nominative_form": "das Teilhaberecht"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP7",
+        "lemma": "bieten",
+        "zh_meanings": {
+          "original": ["提供", "給予"],
+          "contextual": "提供法律依據或條件使某行為成為可能"
+        },
+        "grammar": {
+          "case_requirement": "Dativ + Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Art. 77 Abs. 1 GG bietet keine Grundlage.",
+            "zh": "《基本法》第 77 條第 1 項不構成任何依據。",
+            "components": {
+              "subject": {
+                "de": "Art. 77 Abs. 1 GG",
+                "zh": "第 77 條第 1 款 GG",
+                "gender_number": "m sg",
+                "original_nominative_form": "der Artikel"
+              },
+              "verb_form": "bietet",
+              "objects": [
+                {
+                  "de": "keine Grundlage",
+                  "zh": "沒有依據",
+                  "case": "Akkusativ",
+                  "position": "direct",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Grundlage"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP8",
+        "lemma": "erscheinen",
+        "zh_meanings": {
+          "original": ["顯得", "看起來"],
+          "contextual": "在審查中顯示為具有某種可能性或開放性"
+        },
+        "grammar": {
+          "case_requirement": null,
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Der Ausgang des Hauptsacheverfahrens erscheint offen.",
+            "zh": "本案實體審理的結果仍未確定。",
+            "components": {
+              "subject": {
+                "de": "Der Ausgang des Hauptsacheverfahrens",
+                "zh": "本案實體審理的結果",
+                "gender_number": "m sg",
+                "original_nominative_form": "der Ausgang"
+              },
+              "verb_form": "erscheint",
+              "objects": [
+                {
+                  "de": "offen",
+                  "zh": "未定",
+                  "case": null,
+                  "position": "predicate adjective",
+                  "gender_number": null,
+                  "original_nominative_form": null
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP9",
+        "lemma": "tragen",
+        "zh_meanings": {
+          "original": ["承擔", "負擔", "攜帶"],
+          "contextual": "考慮到、納入（責任、權利等）之範疇"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Perfekt",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Die Verfahrensautonomie hat den Beteiligungsrechten Rechnung getragen.",
+            "zh": "程序自主是否充分顧及了參與權，有待進一步審查。",
+            "components": {
+              "subject": {
+                "de": "die Verfahrensautonomie",
+                "zh": "程序自主權",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Verfahrensautonomie"
+              },
+              "verb_form": "hat ... Rechnung getragen",
+              "objects": [
+                {
+                  "de": "den Beteiligungsrechten",
+                  "zh": "參與權",
+                  "case": "Dativ",
+                  "position": "fixed expression",
+                  "gender_number": "n pl",
+                  "original_nominative_form": "das Beteiligungsrecht"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP10",
+        "lemma": "bedürfen",
+        "zh_meanings": {
+          "original": ["需要", "依賴"],
+          "contextual": "需要進一步審查／理由支持"
+        },
+        "grammar": {
+          "case_requirement": "Genitiv",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Die Frage bedarf eingehender Prüfung.",
+            "zh": "該問題需要深入審查。",
+            "components": {
+              "subject": {
+                "de": "die Frage",
+                "zh": "該問題",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Frage"
+              },
+              "verb_form": "bedarf",
+              "objects": [
+                {
+                  "de": "eingehender Prüfung",
+                  "zh": "深入審查",
+                  "case": "Genitiv",
+                  "position": "genitive_object",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Prüfung"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP11",
+        "lemma": "tragen ... Rechnung",
+        "zh_meanings": {
+          "original": ["顧及", "照顧到"],
+          "contextual": "是否充分考量某權利或要求"
+        },
+        "grammar": {
+          "case_requirement": "Dativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Perfekt",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Die Maßnahme hat den verfassungsrechtlichen Beteiligungsrechten nicht Rechnung getragen.",
+            "zh": "該措施未顧及憲法保障的參與權。",
+            "components": {
+              "subject": {
+                "de": "die Maßnahme",
+                "zh": "該措施",
+                "gender_number": "f sg",
+                "original_nominative_form": "die Maßnahme"
+              },
+              "verb_form": "hat ... Rechnung getragen",
+              "objects": [
+                {
+                  "de": "den Beteiligungsrechten",
+                  "zh": "參與權",
+                  "case": "Dativ",
+                  "position": "fixed expression",
+                  "gender_number": "n pl",
+                  "original_nominative_form": "das Beteiligungsrecht"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP12",
+        "lemma": "bestehen",
+        "zh_meanings": {
+          "original": ["存在", "構成", "通過"],
+          "contextual": "某事物是否存在或成立"
+        },
+        "grammar": {
+          "case_requirement": "auf + Dativ / in + Dativ / es besteht ...",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": null,
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Indikativ"
+        },
+        "examples": [
+          {
+            "de": "Es besteht keine zwingende Veranlassung.",
+            "zh": "不存在任何強制性的理由。",
+            "components": {
+              "subject": {
+                "de": "es",
+                "zh": "虛主詞 es",
+                "gender_number": "n sg",
+                "original_nominative_form": "es"
+              },
+              "verb_form": "besteht",
+              "objects": [
+                {
+                  "de": "keine zwingende Veranlassung",
+                  "zh": "強制性的理由",
+                  "case": "Nominativ (formal)",
+                  "position": "logical subject",
+                  "gender_number": "f sg",
+                  "original_nominative_form": "die Veranlassung"
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": []
+      },
+      {
+        "id": "VP13",
+        "lemma": "sprechen für",
+        "zh_meanings": {
+          "original": ["贊成", "有利於"],
+          "contextual": "有理由／跡象顯示某立場是正當的"
+        },
+        "grammar": {
+          "case_requirement": "Akkusativ",
+          "is_reflexive": false,
+          "is_modal": false,
+          "gov_preposition": "für",
+          "is_separable_verb": false,
+          "voice": "Aktiv",
+          "mood": "Konjunktiv"
+        },
+        "examples": [
+          {
+            "de": "Dafür könnte sprechen, dass keine zwingende Veranlassung bestand.",
+            "zh": "可以說明這點的是，沒有強制性的理由存在。",
+            "components": {
+              "subject": {
+                "de": "dass-Satz",
+                "zh": "從句",
+                "gender_number": null,
+                "original_nominative_form": null
+              },
+              "verb_form": "könnte sprechen",
+              "objects": [
+                {
+                  "de": "dafür",
+                  "zh": "支持這點",
+                  "case": "Akkusativ",
+                  "position": "prepositional",
+                  "gender_number": null,
+                  "original_nominative_form": null
+                }
+              ]
+            }
+          }
+        ],
+        "prepositional_phrases": [
+          {
+            "preposition": "für",
+            "case": "Akkusativ",
+            "example": {
+              "de": "Vieles spricht für eine Verschiebung.",
+              "zh": "很多跡象顯示應該延期。",
+              "components": {
+                "subject": {
+                  "de": "Vieles",
+                  "zh": "許多因素",
+                  "gender_number": "n sg",
+                  "original_nominative_form": "viel"
+                },
+                "verb_form": "spricht",
+                "objects": [
+                  {
+                    "de": "für eine Verschiebung",
+                    "zh": "延期",
+                    "case": "Akkusativ",
+                    "position": "prepositional",
+                    "gender_number": "f sg",
+                    "original_nominative_form": "die Verschiebung"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+
+    ],
+    "metadata": {
+      "translation_notes": {
+        "original_meaning": "動詞在一般語境中的常見譯法",
+        "contextual_meaning": "在法律文本中的專業譯法"
+      },
+      "source": "BVerfG, NVwZ 2023, 1241",
+      "language": "de-zh-TW",
+      "processed_date": "2025-04-03",
+      "version": "1.5",
+      "total_verbs_extracted": 13
+    }
+  }

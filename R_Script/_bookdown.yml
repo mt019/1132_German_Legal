@@ -1,0 +1,14 @@
+book_filename: "1132-Readings-of-German-Jurisprudence.Rmd"
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: "<U+5716> "
+    tab: "<U+8868> "
+  ui:
+    edit: "<U+7DE8><U+8F2F>"
+    chapter_name: ["<U+7B2C> ", " <U+7AE0>"]
+output_dir: "docs"
+rmd_subdir: true
+rmd_files:
+  - index.Rmd

@@ -10,9 +10,9 @@
 
 **翻譯**
 
-命令被申請人（德國聯邦議會）不得在本會期內（第27週）進行對於「建築能源法修正案、暖氣費條例修正案以及煙囪檢查條例修正案」（BTDrucks 20/6875）之**第二與第三讀會**。
+命令被聲請人（德國聯邦議會）不得在本會期內（第27週）進行對於「建築能源法修正案、暖氣費條例修正案以及煙囪檢查條例修正案」（BTDrucks 20/6875）之**第二與第三讀會**。
 
-除此以外的申請部分則予以**駁回**。
+除此以外的聲請部分則予以**駁回**。
 
 
 ## **Rn.00.1**
@@ -22,13 +22,13 @@
 Dem Antragsgegner wird aufgegeben, die zweite und dritte Lesung zum Gesetzentwurf der Bundesregierung zur „Änderung des Gebäudeenergiegesetzes, zur Änderung der Heizkostenverordnung und zur Änderung der Kehr- und Überprüfungsordnung“ (BTDrucks 20/6875) nicht innerhalb der laufenden Sitzungswoche (27. Kalenderwoche) durchzuführen.
 
 **翻譯**  
-命令申請相對人不得於本會期週內（第27週）進行聯邦政府就《建築能源法》、《暖氣費用條例》與《煙囪清掃與檢查條例》修正案的第二與第三讀會。
+命令聲請相對人不得於本會期週內（第27週）進行聯邦政府就《建築能源法》、《暖氣費用條例》與《煙囪清掃與檢查條例》修正案的第二與第三讀會。
 
 
 ### **1. 句子結構解析**
 
 - **主語（形式主詞）**：*es*（省略，句型為典型的動詞「aufgeben」+ Dativ + zu-Infinitiv 結構）
-- **間接受詞（Dativobjekt）**：*dem Antragsgegner*（申請相對人） → 核心主詞
+- **間接受詞（Dativobjekt）**：*dem Antragsgegner*（聲請相對人） → 核心主詞
 - **謂語（Prädikat）**：*wird aufgegeben*  
   - 原形：*aufgeben*（命令、指示）  
   - 語態：**Vorgangspassiv（動態被動語態）**  
@@ -69,7 +69,7 @@ Dem Antragsgegner wird aufgegeben, die zweite und dritte Lesung zum Gesetzentwur
 
 | 變格形式 | 原形（主格）               | 性     | 數   | 格          | 解釋                          |
 |----------|----------------------------|--------|------|--------------|-------------------------------|
-| *dem Antragsgegner* | **der Antragsgegner**         | 陽性  | 單數 | 與格（Dativ） | 申請相對人（訴訟中之答辯方）         |
+| *dem Antragsgegner* | **der Antragsgegner**         | 陽性  | 單數 | 與格（Dativ） | 聲請相對人（訴訟中之答辯方）         |
 | *die Lesung*         | **die Lesung**                | 陰性  | 單數 | 受格（Akk.）   | （法案的）讀會（如二讀、三讀）      |
 | *die Bundesregierung*| **die Bundesregierung**       | 陰性  | 單數 | 屬格（Genitiv） | 聯邦政府                        |
 | *der Sitzungswoche*  | **die Sitzungswoche**         | 陰性  | 單數 | 屬格（Genitiv） | 議會會期中的一週                |
@@ -94,16 +94,18 @@ Dem Antragsgegner wird aufgegeben, die zweite und dritte Lesung zum Gesetzentwur
 
 ### **3. 法學背景**
 
-#### **3.1 Rn. XXX 的核心主題**
+#### **3.1 核心主題**
 
 本句為法院以程序性裁定形式命令立法機關**暫停立法程序的具體條款**，涉及對**立法權限與憲法秩序的干預界限**。法院可能基於緊急權利保護（z.B. *einstweilige Anordnung*）阻止議會多數於特定期限內強行通過爭議法案。
 
 #### **3.2 德國基本法（GG）相關條文**
 
 - **Art. 20 Abs. 2 GG**  
+  
   > *Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.*
 
 - **Art. 38 GG**  
+
   > *Die Abgeordneten [...] sind nur ihrem Gewissen unterworfen.*
 
 此句所涉之法院命令，觸及行政或司法權對立法進程的潛在干預，涉及**權力分立（Gewaltenteilung）**與**民主原則**下的敏感界線。
@@ -126,11 +128,11 @@ Dem Antragsgegner wird aufgegeben, die zweite und dritte Lesung zum Gesetzentwur
 Im Übrigen wird der Antrag abgelehnt.
 
 **翻譯**  
-除此之外，申請被駁回。
+除此之外，聲請被駁回。
 
 ### **1. 句子結構解析**
 
-- **主語（Subjekt）**：*der Antrag*（申請） → 核心主詞
+- **主語（Subjekt）**：*der Antrag*（聲請） → 核心主詞
 - **謂語（Prädikat）**：*wird abgelehnt*
   - 原形：*ablehnen*（駁回、否決）
   - 被動語態：**Vorgangspassiv（動態被動）** → *werden + Partizip II*
@@ -150,16 +152,16 @@ Im Übrigen wird der Antrag abgelehnt.
 #### **2.1 動詞解析**
 
 - **ablehnen**
-  - 意義：駁回、否決（通常指法律申請、提案等）
+  - 意義：駁回、否決（通常指法律聲請、提案等）
   - 搭配格：*etwas (Akk.) ablehnen*
   - 被動語態：*etwas wird abgelehnt*
-  - 例句：*Der Antrag wurde vom Gericht abgelehnt.*（法院駁回了該申請。）
+  - 例句：*Der Antrag wurde vom Gericht abgelehnt.*（法院駁回了該聲請。）
 
 #### **2.2 名詞解析（變格與原形）**
 
 | 變格形式 | 原形（主格） | 性     | 數   | 格        | 解釋         |
 |----------|---------------|--------|------|------------|--------------|
-| *der Antrag* | **der Antrag** | 陽性 | 單數 | 主格（Nominativ） | 申請、提案（法律） |
+| *der Antrag* | **der Antrag** | 陽性 | 單數 | 主格（Nominativ） | 聲請、提案（法律） |
 
 #### **2.3 介詞短語解析**
 
@@ -172,7 +174,7 @@ Im Übrigen wird der Antrag abgelehnt.
 
 ### **3. 法學背景**
 
-#### **3.1 Rn. XXX 的核心主題**
+#### **3.1 核心主題**
 
 本句為標準性法院裁定格式中的**結語部分**，表明除了先前提及的禁止命令外，其餘部分的請求未獲准。常見於**部分准許、部分駁回**的裁定結果。
 
@@ -184,6 +186,6 @@ Im Übrigen wird der Antrag abgelehnt.
 
 - **Teilweise Stattgabe / Teilweise Ablehnung（部分准許 / 部分駁回）**
 - **Verfahrensrecht（程序法）**
-  - 特別指涉法院如何在程序上處理申請請求（如 *einstweilige Anordnung* 或 *Organstreitverfahren*）
+  - 特別指涉法院如何在程序上處理聲請請求（如 *einstweilige Anordnung* 或 *Organstreitverfahren*）
 
 ---
