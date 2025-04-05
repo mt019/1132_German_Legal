@@ -2778,12 +2778,16 @@ for (i = 0; i < coll.length; i++) {
     border-radius: 6px;
   }
 
-/* Optional: hide on mobile */
   @media (max-width: 600px) {
-    .floating-player {
-      display: none;
+    #floating-player {
+      display: none !important;   /* ✅ Completely remove it */
+      width: 0 !important;
+      height: 0 !important;
+      visibility: hidden !important;
+      pointer-events: none;
     }
   }
+  
 </style>
             </section>
 
