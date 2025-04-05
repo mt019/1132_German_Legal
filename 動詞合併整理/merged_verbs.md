@@ -1,7 +1,8 @@
 # **判決中的動詞合併整理（含介詞支配）** {#verbs-in-judgments}
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=451 src="//music.163.com/outchain/player?type=0&id=152465656&auto=1&height=430"></iframe>
-
+<div class="responsive-iframe">
+  <iframe src="//music.163.com/outchain/player?type=0&id=152465656&auto=1&height=430" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## abstimmen
 
