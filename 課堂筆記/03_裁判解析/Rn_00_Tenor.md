@@ -152,7 +152,7 @@ Im Übrigen wird der Antrag abgelehnt.
 #### **2.1 動詞解析**
 
 - **ablehnen**
-  - 意義：駁回、否決（通常指法律聲請、提案等）
+  - 意義：駁回、否決（通常指法律申請、聲請、提案等）
   - 搭配格：*etwas (Akk.) ablehnen*
   - 被動語態：*etwas wird abgelehnt*
   - 例句：*Der Antrag wurde vom Gericht abgelehnt.*（法院駁回了該聲請。）
@@ -161,7 +161,7 @@ Im Übrigen wird der Antrag abgelehnt.
 
 | 變格形式 | 原形（主格） | 性     | 數   | 格        | 解釋         |
 |----------|---------------|--------|------|------------|--------------|
-| *der Antrag* | **der Antrag** | 陽性 | 單數 | 主格（Nominativ） | 聲請、提案（法律） |
+| *der Antrag* | **der Antrag** | 陽性 | 單數 | 主格（Nominativ） | 申請、聲請、提案（法律） |
 
 #### **2.3 介詞短語解析**
 
