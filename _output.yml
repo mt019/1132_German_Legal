@@ -1,8 +1,8 @@
 bookdown::gitbook:
   css: style.css
   includes:
-    in_header: google_verification.html
-    after_body: custom_def.html
+    in_header: the_asset/custom-header.html
+    after_body: the_asset/custom_def.html
   mathjax: default
   config:
     toc:

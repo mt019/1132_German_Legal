@@ -55,6 +55,38 @@
 <meta name="google-site-verification" content="HgMTZnEFg_uS3jjPeDSxhbNBA6tsFU6jG7IkWxEW6P4" />
 
 
+<script>
+    function injectPlayer() {
+      if (document.querySelector('iframe.floating-player')) return;
+  
+      const iframe = document.createElement("iframe");
+      iframe.className = "floating-player";
+      iframe.src = "//music.163.com/outchain/player?type=0&id=152465656&auto=1&height=300";
+      iframe.allow = "autoplay";
+      iframe.width = "320";
+      iframe.height = "300";
+      iframe.frameBorder = "0";
+      iframe.style.position = "fixed";
+      iframe.style.bottom = "20px";
+      iframe.style.right = "20px";
+      iframe.style.borderRadius = "12px";
+      iframe.style.boxShadow = "0 4px 16px rgba(0,0,0,0.2)";
+      iframe.style.zIndex = "9999";
+      document.body.appendChild(iframe);
+    }
+  
+    // Inject on first load
+    document.addEventListener("DOMContentLoaded", injectPlayer);
+  
+    // Re-inject after GitBook navigates to a new page
+    if (typeof window.gitbook !== "undefined") {
+      window.gitbook.events.on("page.change", function() {
+        injectPlayer();
+      });
+    }
+  </script>
+
+
 
 <style type="text/css">
   
@@ -2754,6 +2786,9 @@ for (i = 0; i < coll.length; i++) {
   }
   
     </script>
+
+
+
             </section>
 
           </div>
