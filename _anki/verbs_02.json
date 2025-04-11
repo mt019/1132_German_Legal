@@ -19,11 +19,11 @@
         "examples": [
           {
             "de": "Der Parlamentsmehrheit steht ein weiter Gestaltungsspielraum zu.",
-            "zh": "議會多數擁有廣泛的程序設計空間。",
+            "zh": "議會多數擁有廣泛的程序形成空間。",
             "components": {
               "subject": {
                 "de": "ein weiter Gestaltungsspielraum",
-                "zh": "廣泛的設計空間",
+                "zh": "廣泛的形成空間",
                 "gender_number": "m sg",
                 "original_nominative_form": "der Gestaltungsspielraum"
               },

@@ -1,14 +1,5 @@
 # **判決中的動詞合併整理（含介詞支配）** {#verbs-in-judgments}
 
-<!-- <iframe
-  class="floating-player"
-  src="https://music.163.com/outchain/player?type=0&id=152465656&auto=1&height=300"
-  width="100%"
-  height="300"
-  frameborder="0"
-  allow="autoplay">
-</iframe> -->
-
 
 ## abstimmen
 
@@ -691,8 +682,8 @@
        * 原形：der Abgeordnete
 
 2. **德文例句**：`Der Parlamentsmehrheit steht ein weiter Gestaltungsspielraum zu.`
-   - 中文翻譯：議會多數擁有廣泛的程序設計空間。
-   - 主語：ein weiter Gestaltungsspielraum（廣泛的設計空間）
+   - 中文翻譯：議會多數擁有廣泛的程序形成空間。
+   - 主語：ein weiter Gestaltungsspielraum（廣泛的形成空間）
        * 性質：陽性單數
        * 原形：der Gestaltungsspielraum
    - 動詞形態：steht ... zu

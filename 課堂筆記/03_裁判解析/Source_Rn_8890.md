@@ -10,4 +10,10 @@ aa) (1) Art. 38 Abs. 1 Satz 2 GG garantiert den Status der Gleichheit der Abgeor
 (2) Welche Bindungen sich aus dem Grundsatz der gleichberechtigten Teilhabe der Abgeordneten an der parlamentarischen Willensbildung für die Ausgestaltung von Gesetzgebungsverfahren ergeben, hat der Senat bisher nicht entschieden (vgl. BVerfG NVwZ 2023, 407 Rn. 92).
 
 90
-Zwar ist es der Parlamentsmehrheit (Art. 42 II 1 GG) grundsätzlich vorbehalten, die Prioritäten und Abläufe bei der Bearbeitung von Gesetzgebungsverfahren zu bestimmen (vgl. BVerfGE 145, 348 Rn. 37 = NVwZ 2017, 1108; BVerfG NVwZ 2023, 407 Rn. 91). Auch enthält das Grundgesetz keine konkreten Vorgaben für die Dauer der Gesetzesberatung (vgl. BVerfGE 145, 348 Rn. 37 = NVwZ 2017, 1108; BVerfG NVwZ 2023, 407 Rn. 91). Dies ist Folge des Umstandes, dass eine abstrakte Bestimmung der Angemessenheit der Dauer einer konkreten Gesetzesberatung nicht möglich ist. Vielmehr bedarf es der Berücksichtigung sämtlicher Umstände des jeweiligen Einzelfalls sowohl hinsichtlich des konkreten Gesetzentwurfs als auch hinsichtlich weiterer, die Arbeitsabläufe des Parlaments bestimmender Faktoren (vgl. BVerfG NVwZ 2023, 407 Rn. 91).
+Zwar ist es der Parlamentsmehrheit (Art. 42 II 1 GG) grundsätzlich vorbehalten, die Prioritäten und Abläufe bei der Bearbeitung von Gesetzgebungsverfahren zu bestimmen (vgl. BVerfGE 145, 348 Rn. 37 = NVwZ 2017, 1108; BVerfG NVwZ 2023, 407 Rn. 91). 
+
+Auch enthält das Grundgesetz keine konkreten Vorgaben für die Dauer der Gesetzesberatung (vgl. BVerfGE 145, 348 Rn. 37 = NVwZ 2017, 1108; BVerfG NVwZ 2023, 407 Rn. 91). 
+
+Dies ist Folge des Umstandes, dass eine abstrakte Bestimmung der Angemessenheit der Dauer einer konkreten Gesetzesberatung nicht möglich ist. 
+
+Vielmehr bedarf es der Berücksichtigung sämtlicher Umstände des jeweiligen Einzelfalls sowohl hinsichtlich des konkreten Gesetzentwurfs als auch hinsichtlich weiterer, die Arbeitsabläufe des Parlaments bestimmender Faktoren (vgl. BVerfG NVwZ 2023, 407 Rn. 91).
