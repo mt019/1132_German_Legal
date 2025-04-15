@@ -67,7 +67,7 @@ Gefordert sind in erster Linie die Bundesregierung und die Bundestagsmehrheit, d
 
 此外，政府基於欲展現其有能力行動的「政治意志」，是否構成正當理由支持如此加速立法，亦將為主案判決之內容之一（第95、101註解）。另有一項重要反對意見已於暫時處分階段提出，即：在國會具有分工運作（議員由助理與黨團支持）情況下，是否即使進行高度加速立法程序亦屬可接受（第95註解）。評論者 Hasso Suliak（lto, 2023年7月6日）認為，薪酬優渥的聯邦議員本就應能與其助理一同，在短時間內審查完整的修正案提案。然而此種觀點，於缺乏正當理由下對立法程序極度壓縮之情形，違反了《基本法》第38條第1項第2句與第42條第1項第1句所揭示之憲政要求。
 
-聯邦憲法法院在此類案件中劃定議會自主權界限，並不構成越權行使（Julian Krüper，lto，2023年7月12日）；相對意見見 Florian Meinel（Verfassungsblog，2023年7月9日）與 Johannes Gallon（Verfassungsblog，2023年7月10日）。
+聯邦憲法法院在此類案件中劃定議會自主權界限，並不構成不被允許的權限逾越（參見 Julian Krüper，2023年7月12日 lto；相對意見見 Florian Meinel，2023年7月9日，Verfassungsblog 以及 Johannes Gallon，2023年7月10日，Verfassungsblog）。
 
 即便主案訴訟結果支持聲請人，第二審判庭在維護立法程序中之議會基本自主權方面，仍將有所保留，其裁定應僅限於釐清合憲立法程序所需的最低憲政標準，而不致導致對立法時間表之僵化規定（參見 Joachim Wieland，SPIEGEL+，2023年7月6日）。
 
