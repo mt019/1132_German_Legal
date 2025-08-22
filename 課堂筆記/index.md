@@ -1,24 +1,15 @@
 ---
 title: "1132 法學德文"
-author: [王逸帆]
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: ctexbook
-output: bookdown::gitbook
-# output: bookdown::bs4_book
-link-citations: true
-url: https://mt019.github.io/1132_German_Legal/
-description: "113-2 學期【法學德文】課堂筆記。采用R的bookdown制作，输出格式为bookdown::gitbook."
-
+author: "王逸帆"
+date: "2025-08-22"
+description: "113-2 學期【法學德文】課堂筆記。採用 MkDocs Material 製作，部署至 GitHub Pages。"
 ---
 
+# 1132 法學德文 國立台灣大學
 
-# Preface {-}
+授課：孫迺翊教授
 
-法學德文
-
-
-113-2 學期《法學德文》課堂筆記。采用R的bookdown製作，輸出格式為bookdown::gitbook。
+113-2 學期《法學德文》課堂筆記。採用 MkDocs Material 製作，網站部署至 GitHub Pages。
 
 
 
