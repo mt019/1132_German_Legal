@@ -1,6 +1,6 @@
 # (PART) GG條文解析 {-}
 
-# GG 第 20 條解析 {#gg-20}
+# GG 第 20 條解析 
 
 ## 條文原文（Artikel 20 GG）
 
@@ -118,7 +118,7 @@ Rechts：法原則，法理學的「法」
 ***
 
 
-# GG 第 21 條第 1 項解析 {#gg-21-1}
+# GG 第 21 條第 1 項解析 
 
 ## 條文原文（Artikel 21 (1) GG） 
 
@@ -255,7 +255,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 ***
 
-# GG 第 21 條第 2 項解析   {#gg-21-2}
+# GG 第 21 條第 2 項解析   
 
 ## 條文原文（Artikel 21 (2) GG）  
 
@@ -379,7 +379,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 
 ***
 
-# GG 第 38 條解析 {#gg-38}
+# GG 第 38 條解析 
 
 ## 條文原文（Artikel 38 GG）
 
@@ -485,7 +485,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 
 ----
 
-# GG 第 63 條解析   {#gg-63}
+# GG 第 63 條解析   
 
 ## 條文原文（Artikel 63 GG）  
 
@@ -581,7 +581,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 
 ***
 
-# **GG 第 64 條解析** {#gg-64}
+# **GG 第 64 條解析** 
 
 ## **條文原文（Artikel 64 GG）**
 
@@ -664,7 +664,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 ***
 
 
-# **GG 第 67 條解析**   {#gg-67}
+# **GG 第 67 條解析**   
 
 ## **條文原文（Artikel 67 GG）**  
 

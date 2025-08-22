@@ -1,0 +1,28 @@
+name: deploy
+on:
+  push:
+    branches: [ main ]
+permissions:
+  contents: write
+
+jobs:
+  gh-pages:
+    runs-on: ubuntu-latest
+    container:
+      image: squidfunk/mkdocs-material:latest
+    defaults:
+      run:
+        working-directory: .          # mkdocs.yml 在倉庫根目錄
+    steps:
+      - uses: actions/checkout@v4
+
+      # 需要哪些外掛就裝哪些；若你有 Dockerfile 也可改成用它的 image
+      - run: pip install mkdocs-awesome-pages-plugin mkdocs-exclude mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin
+
+      # 避免「dubious ownership」與缺省身份
+      - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+      - run: git config --global user.name "github-actions[bot]"
+      - run: git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 直接部署到 gh-pages
+      - run: mkdocs gh-deploy --force

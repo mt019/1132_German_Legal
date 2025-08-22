@@ -1,4 +1,4 @@
-# Rn. 00 Tenor {#rn-00} 
+# Rn. 00 Tenor  
 
 主文（Tenor）解析
 

@@ -1,0 +1,22 @@
+site_name: 1132 德文法學
+docs_dir: 課堂筆記
+
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+plugins:
+  - search
+  - awesome-pages
+  - exclude:
+      glob: ['_*/**', '*_.md']
+extra_css:
+  - assets/extra.css   # 若有

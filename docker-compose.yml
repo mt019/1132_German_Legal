@@ -1,0 +1,8 @@
+services:
+  docs:
+    build: .       # 用你自己的 Dockerfile
+    volumes:
+      - .:/docs
+    ports:
+      - "8001:8000"
+    command: serve -a 0.0.0.0:8000
