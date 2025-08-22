@@ -1,4 +1,4 @@
-# Beschluss
+# Beschluss 原文
 
 
 [BVerfG, Beschluss vom 5. Juli 2023 – 2 BvE 4/23](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/07/es20230705_2bve000423.html)

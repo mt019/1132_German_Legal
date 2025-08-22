@@ -9,6 +9,8 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.tracking
+    - navigation.footer        # 產生頁腳的上一頁/下一頁
+
 
   font:
     text: Noto Sans
@@ -20,3 +22,7 @@ plugins:
       glob: ['_*/**', '*_.md']
 extra_css:
   - assets/extra.css   # 若有
+
+extra_javascript:
+  - assets/keynav.js           # 我將放置的鍵盤導航腳本
+  - assets/extra.js
