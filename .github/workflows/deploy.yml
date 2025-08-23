@@ -1,33 +1,36 @@
 # .github/workflows/mkdocs-docker.yml
-name: MkDocs Deploy (from branch)
+name: Deploy MkDocs (from branch)
 
 on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write   # 允許推送 gh-pages
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # 允許推送 gh-pages
     steps:
       - uses: actions/checkout@v4
 
+      # 用根目錄 Dockerfile 建映像（已安裝所有外掛：awesome-pages、exclude、mdx_truly_sane_lists 等）
       - name: Build site image
         run: docker build -t mkdocs-site .
 
-      - name: gh-deploy inside container -> gh-pages branch
+      # 在容器內部署到 gh-pages（覆蓋 entrypoint，避免 "No such command 'sh'"）
+      - name: gh-deploy to gh-pages
         env:
-          GIT_AUTHOR_NAME: github-actions
-          GIT_AUTHOR_EMAIL: github-actions@users.noreply.github.com
-          GIT_COMMITTER_NAME: github-actions
-          GIT_COMMITTER_EMAIL: github-actions@users.noreply.github.com
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
         run: |
           docker run --rm \
             -v "$PWD":/docs \
             -w /docs \
-            mkdocs-site \
-            sh -c '
+            --entrypoint /bin/sh \
+            mkdocs-site -c '
               git config --global --add safe.directory /docs &&
               git config --global user.name  "$GIT_AUTHOR_NAME" &&
               git config --global user.email "$GIT_AUTHOR_EMAIL" &&
