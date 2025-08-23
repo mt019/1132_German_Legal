@@ -10,11 +10,9 @@ theme:
     - navigation.expand
     - navigation.tracking
     - navigation.footer        # 產生頁腳的上一頁/下一頁
-
-
-font:
-  text: Noto Serif CJK TC
-  code: JetBrains Mono
+  font:
+    text: Noto Serif CJK TC
+    code: JetBrains Mono
 plugins:
   - search
   - awesome-pages
