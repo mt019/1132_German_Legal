@@ -92,6 +92,7 @@ Recht, das als Landesrecht erlassen worden ist, aber wegen Änderung des Artikel
 | *könnte ... erlassen werden* | **erlassen werden** | 被動語態，情態動詞 + 虛擬式 II | Akk. | 表假設情境下不能制定 |
 
 **例句**：
+
 - *Dieses Recht gilt als Bundesrecht fort.*（這項規範繼續作為聯邦法有效）
 - *Das Gesetz ist im Jahr 1985 erlassen worden.*（該法律於1985年制定）
 - *Ein solches Gesetz könnte heute nicht mehr erlassen werden.*（此類法律如今無法再制定）
@@ -117,6 +118,7 @@ Recht, das als Landesrecht erlassen worden ist, aber wegen Änderung des Artikel
   - *wegen der Aufhebung der Artikel 74a, 75...*
 
   **例句**：
+
   - *Wegen des Unfalls kam er zu spät.*（因事故他遲到了）
 
 ---
@@ -415,7 +417,6 @@ Recht, das als Landesrecht erlassen worden ist, aber wegen Änderung des Artikel
 
 - **立法層級變更（Kompetenzwandel）**：當邦法被納入聯邦專屬立法領域，聯邦法取得「替代效力」
 - **Verdrängungswirkung**：聯邦法律可「排除」邦法的效力
-
 
 
 

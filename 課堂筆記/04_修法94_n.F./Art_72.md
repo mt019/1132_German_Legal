@@ -24,6 +24,7 @@ Auf den Gebieten des Artikels 74 Abs. 1 Nr. 4, 7, 11, 13, 15, 19a, 20, 22, 25 un
 **Absatz 3**
 
 Hat der Bund von seiner Gesetzgebungszuständigkeit Gebrauch gemacht, können die Länder durch Gesetz hiervon abweichende Regelungen treffen über:  
+
 1. das Jagdwesen (ohne das Recht der Jagdscheine);  
 2. den Naturschutz und die Landschaftspflege (ohne die allgemeinen Grundsätze des Naturschutzes, das Recht des Artenschutzes oder des Meeresnaturschutzes);  
 3. die Bodenverteilung;  
@@ -35,6 +36,7 @@ Hat der Bund von seiner Gesetzgebungszuständigkeit Gebrauch gemacht, können di
 Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des Bundesrates anderes bestimmt ist. Auf den Gebieten des Satzes 1 geht im Verhältnis von Bundes- und Landesrecht das jeweils spätere Gesetz vor.
 
 若聯邦已行使其立法權，則各邦仍可就下列事項另行以法律規定不同內容：  
+
 1. 狩獵（不包括狩獵執照制度）；  
 2. 自然保育與景觀維護（不包括自然保育之一般原則、物種保護或海洋保護法規）；  
 3. 土地分配；  
@@ -235,6 +237,7 @@ Durch Bundesgesetz kann bestimmt werden, daß eine bundesgesetzliche Regelung, f
 **原文**
 
 > Hat der Bund von seiner Gesetzgebungszuständigkeit Gebrauch gemacht, können die Länder durch Gesetz hiervon abweichende Regelungen treffen über:
+
 1. das Jagdwesen (ohne das Recht der Jagdscheine);
 2. den Naturschutz und die Landschaftspflege (ohne die allgemeinen Grundsätze des Naturschutzes, das Recht des Artenschutzes oder des Meeresnaturschutzes);
 3. die Bodenverteilung;
@@ -422,7 +425,6 @@ Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach ihrer Ver
 - **Erforderlichkeitskontrolle**：必要性審查
 - **Gesetzesersetzung durch Landesrecht**：邦法取代聯邦法
 - **flexibler Kompetenzübergang**：彈性化立法權限轉移
-
 
 
 

@@ -117,14 +117,17 @@ Artikel 94 – Strukturbaum / 條文結構樹（含雙語對照）
 
 Artikel 94  
 (1) Das Bundesverfassungsgericht entscheidet:
+
 	1.	über die Auslegung dieses Grundgesetzes aus Anlass von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch dieses Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind;
 	2.	bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages;
 	2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes;
+
 	3.	bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht;
 	4.	in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist;
 	4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt in einem seiner Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein;
 	4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim Landesverfassungsgericht erhoben werden kann;
 	4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag;
+
 	5. in den übrigen in diesem Grundgesetz vorgesehenen Fällen.  
 (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes, ob im Falle des Artikels 72 Absatz 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Absatz 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Absatz 2 Satz 1 nicht mehr erlassen werden könnte. Die Feststellung, dass die Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2. Der Antrag nach Satz 1 ist nur zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2 im Bundestag abgelehnt oder über sie nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.  
 (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig.  
@@ -136,14 +139,17 @@ Artikel 94
 
 第一項
 聯邦憲法法院裁判下列事項：
+
 	1. 針對本基本法的解釋，若有爭議涉及最高聯邦機關，或其他依本基本法或依最高聯邦機關議事規則而擁有自身權利之參與者，就其權利與義務範圍所生爭執者。
 	2. 關於聯邦法或邦法是否在形式或實質上符合本基本法，或邦法是否符合其他聯邦法所生之意見分歧或疑義，經由聯邦政府、一邦政府或聯邦議會四分之一成員聲請者。
 	2a. 就某一法律是否符合第七十二條第二項所規定條件所生之爭議，經由聯邦參議院、一邦政府或一邦人民代表機構聲請者。
+
 	3. 關於聯邦與各邦間之權利與義務所生之爭議，特別是各邦執行聯邦法律或聯邦行使監督權過程中之爭議。
 	4. 關於聯邦與邦、不同邦之間，或一邦內部機關之間，其他公法性質之爭議，惟其並無其他法律途徑可資救濟者。
 	4a. 針對憲法訴願案件提出裁判，若申請人主張其基本權利或第20條第4項、第33條、第38條、第101條、第103條與第104條所保障之權利受到公權力侵害。
 	4b. 針對鄉鎮與鄉鎮聯合團體所提之憲法訴願案件作出裁判，其主張係其依第28條所保障之自治權遭法律侵害；惟如爭議涉及邦法律，僅於不得向邦憲法法院提起訴願之情形下為限。
 	4c. 對於政黨團體因未被認定為有資格參與聯邦議會選舉之政黨所提之訴願案件作出裁判。
+
 	5. 本基本法另有規定者，亦為裁判範圍。
 
 第二項

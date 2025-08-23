@@ -64,6 +64,7 @@
 | durchzuführen | durchführen | 執行、進行 | 是 | zu-Infinitiv 結構 | Akkusativ |
 
 **例句**  
+
 - *Das Gericht hat dem Minister aufgegeben, den Bericht vorzulegen.*（法院命令部長提交報告。）
 - *Die Lesung ist durchzuführen.*（該審議應予以進行。）
 
@@ -189,6 +190,7 @@
 | sei | sein | 是 | 否 | 虛擬式（Konjunktiv I） | 作述語動詞使用 |
 
 **例句**  
+
 - *Das Gericht sah den Antrag als unbegründet an.*  
 - *Die Klage sei zulässig, aber unbegründet.*
 
@@ -297,6 +299,7 @@
 | überwiegt | überwiegen | 超過、優先 | 否 | 現在時 | Akkusativ |
 
 **例句**
+
 - *Die Entscheidung beruht auf rechtlichen Gründen.*
 - *Die Analyse führte zu einem eindeutigen Ergebnis.*
 - *Das Interesse der Betroffenen überwiegt die Verwaltungsfreiheit.*
@@ -383,6 +386,7 @@
 | waren beigetreten | beitreten | 加入、參與（程序/組織） | 是 | 過去完成式 | Dativ |
 
 **例句**  
+
 - *Einige Abgeordnete sind dem Verfahren beigetreten.*  
 - *Deutschland ist dem Vertrag 2004 beigetreten.*
 
@@ -463,6 +467,7 @@
 | hat behandelt | behandeln | 處理、探討 | 否 | Perfekt 完成時 | Akkusativ |
 
 **例句**  
+
 - *Die Argumentation schließt an frühere Entscheidungen an.*  
 - *Das Gericht hat die Problematik ausführlich behandelt.*
 
@@ -561,6 +566,7 @@
 | gewährleistet | gewährleisten | 保障、確保 | 否 | 現在時 | Dativ + Akkusativ |
 
 **例句**
+
 - *Das Gericht hat in seinem Urteil unterstrichen, dass das Recht auf Anhörung besteht.*  
 - *Das Gesetz gewährleistet den Bürgern das Recht auf Datenschutz.*
 
@@ -638,6 +644,7 @@
 | sich über ... bilden | — | 指對某事形成觀點 | 否 | 搭配 *über + Akk.* | — |
 
 **例句**
+
 - *Die Gleichberechtigung umfasst auch soziale Teilhabe.*  
 - *Die Abgeordneten sollen sich über das Thema eine eigene Meinung bilden.*
 
@@ -735,6 +742,7 @@
 | geklärt werden können | klären + werden + können | 能夠被釐清 | 否 | 被動語態（Vorgangspassiv）+ 情態動詞 | 主詞為 *Notwendigkeit und Umfang* |
 
 **例句**
+
 - *Das Gericht hat auf den Gleichheitssatz Bezug genommen.*  
 - *Das Gesetz gebietet, dass alle gehört werden.*  
 - *Die Fragen müssen in einer Debatte geklärt werden können.*
@@ -823,6 +831,7 @@
 | erschien | erscheinen | 顯得、看起來 | 否 | 過去式 | Dativ + Prädikativ |
 
 **例句**
+
 - *Die Maßnahme erschien dem Gericht als unverhältnismäßig.*  
 - *Das Vorgehen erscheint uns fragwürdig.*
 
@@ -939,6 +948,7 @@
 | war | sein | 是 | 否 | 過去時 | Prädikativ |
 
 **例句**
+
 - *Das Gericht konnte diese Frage offenlassen.*  
 - *Ein Verstoß wurde bejaht.*  
 - *Die Regelung war verfassungswidrig.*
@@ -1046,6 +1056,7 @@
 | ist | sein | 是 | 否 | 現在時 | 作述語使用 |
 
 **例句**
+
 - *Die Analyse machte deutlich, dass Reformen nötig sind.*  
 - *Mit einer Entscheidung des Gerichts ist zu rechnen.*  
 - *Diese Frage ist entscheidungsrelevant.*
@@ -1148,6 +1159,7 @@
 | betont | betonen | 強調 | 否 | 過去分詞（被動語態） | Akkusativ（重點） |
 
 **例句**
+
 - *Die Entscheidung kam nicht überraschend.*  
 - *Es geht um ein wichtiges Gesetz.*  
 - *Die Gründe wurden ausführlich dargelegt.*  
@@ -1224,6 +1236,7 @@
 | enthält | enthalten | 包含、涵蓋、規定 | 否 | 現在時 | Akkusativ |
 
 **例句**
+
 - *Das Gesetz enthält klare Regeln.*  
 - *Die Verfassung enthält keine Fristen.*
 
@@ -1304,6 +1317,7 @@
 | besitzt | besitzen | 擁有、具有 | 否 | 現在時 | Akkusativ |
 
 **例句**
+
 - *Die Kontrolle obliegt dem Gericht.*  
 - *Der Gesetzgeber besitzt große Freiheit.*
 
@@ -1371,6 +1385,7 @@
 | sieht ... vor | vorsehen | 規定、預設 | 是 | 現在時，分離式結構 | Akkusativ（直接受詞） |
 
 **例句**
+
 - *Das Gesetz sieht keine Ausnahme vor.*  
 - *Die Ordnung sieht klare Regeln vor.*
 
@@ -1445,6 +1460,7 @@
 | konstatiert | konstatieren | 指出、確認 | 否 | 現在時 | dass-Satz 或直接受詞 |
 
 **例句**
+
 - *Die Regeln dürften eingehalten worden sein.*  
 - *Das Gericht konstatiert einen Verstoß.*
 
@@ -1525,6 +1541,7 @@
 | muss ... Rechnung tragen | Rechnung tragen | 尊重、顧及（慣用結構） | 否 | 情態動詞 + 慣用語 | Dativ（受尊重對象） |
 
 **例句**
+
 - *Der Gesetzgeber muss dem Grundrecht auf Gleichbehandlung Rechnung tragen.*  
 - *Das Gericht trägt den Belangen der Bürger Rechnung.*
 
@@ -1602,6 +1619,7 @@
 | darf ... missachtet werden | missachten | 忽視、怠忽 | 否 | 被動語態（Vorgangspassiv）+ 情態動詞 | Akkusativ |
 
 **例句**
+
 - *Grundrechte dürfen nicht missachtet werden.*  
 - *Das Gesetz darf nicht ohne sachlichen Grund eingeschränkt werden.*
 
@@ -1694,6 +1712,7 @@
 | ist ... abzustellen | abstellen auf | 著眼於、依據於 | 是 | 被動句構 + 情態結構 | auf + Akkusativ |
 
 **例句**
+
 - *Das Gericht betont, dass die Würde des Menschen unantastbar ist.*  
 - *Eine abstrakte Bewertung ist nicht möglich.*  
 - *Im Einzelfall ist auf die Umstände abzustellen.*
@@ -1785,6 +1804,7 @@
 | gab ... den Ausschlag | den Ausschlag geben | 起決定作用 | 否（固定搭配） | 過去式 | für + Akkusativ |
 
 **例句**
+
 - *Die Stellungnahme gab den Ausschlag für die Entscheidung.*  
 - *Mit Blick auf die Risiken wurde der Antrag abgelehnt.*
 
@@ -1827,9 +1847,11 @@
   - **詞性（Wortart）**：介系詞片語（Präpositionalphrase）
   - **用法**：
     - 用於描述某項法律效果、決定、或責任是使某一方處於較差的位置。
+
   - **例句**：
     - **Die Entscheidung wirkt sich zulasten des Klägers aus.**  
       （該判決對原告不利。）
+
   - **常見結構**：
     - **zulasten von [Dativ]**
       - 例子：
@@ -1842,9 +1864,11 @@
   - **詞性（Wortart）**：介系詞片語（Präpositionalphrase）
   - **用法**：
     - 用於描述某項法律效果、優惠或考量是使某一方獲得利益或優勢。
+
   - **例句**：
     - **Das Gericht entschied zugunsten des Beklagten.**  
       （法院作出了對被告有利的判決。）
+
   - **常見結構**：
     - **zugunsten von [Dativ]**
       - 例子：
@@ -1924,6 +1948,7 @@
 | erfährt | erfahren | 得到、遭遇、體驗 | 否 | 現在時 | Akkusativ |
 
 **例句**  
+
 - *Das Gericht hatte es als notwendig angesehen, weitere Beweise zu erheben.*  
 - *Sie erfährt große Anerkennung für ihre Arbeit.*  
 - *Bei einem Erfolg könnte eine Änderung erfolgen.*
@@ -2011,6 +2036,7 @@
 | hat ... Rechnung getragen | Rechnung tragen | 尊重、顧及、納入考量 | 否（固定搭配） | Perfekt（完成式） | Dativ |
 
 **例句**
+
 - *Dem Datenschutz wurde Rechnung getragen.*  
 - *Das Gericht hat der Beschwerde Rechnung getragen.*
 
@@ -2113,6 +2139,7 @@
 | gewesen wäre                  | sein                    | （作為助動詞）可能是   | 否         | Konjunktiv II der Gegenwart（現在虛擬式，表未來可能性） | 補足語（補述狀態或假設情境）  |
 
 **例句**
+
 - *Das Gericht hat geprüft und festgestellt, dass die Regelung verfassungswidrig ist.*  
 - *Eine spätere Entscheidung stellt das Inkrafttreten nicht in Frage.*
 
@@ -2223,6 +2250,7 @@
 | durchzuführen | durchführen | 實施、執行、進行 | 是 | 不定式結構（zu + Inf） | Akkusativ |
 
 **例句**
+
 - *Der Behörde wurde aufgegeben, den Fall erneut zu prüfen.*  
 - *Der Bundestag führt die Beratung in der Sitzung durch.*
 
@@ -2373,6 +2401,7 @@
   - **動詞原形**：*untersagen*（禁止）
 
 <!-- - **條件句（solange ...）**：
+
   - *solange nicht allen Abgeordneten ... zugegangen sind*
     - 條件：所有議員尚未收到重要文本段落 
     - 
@@ -2405,6 +2434,7 @@
 | vornimmt | vornehmen | 安排、進行 | 可分動詞 | 現在時 | Akkusativ（Terminierung） |
 
 **例句**
+
 - *Dem Antrag wurde nicht gefolgt.*  
 - *Die Behörde untersagt die Veranstaltung.*  
 - *Die Unterlagen sind den Mitgliedern zugegangen.*  
@@ -2517,6 +2547,7 @@ Unkultur 很重的批評：沒文化
 | hat begonnen | beginnen | 開始 | 否 | Perfekt | 無（不及物） |
 
 **例句**
+
 - *Es geht um die Frage der Zuständigkeit.*  
 - *Die Debatte hat bereits vor der Wahl begonnen.*
 
@@ -2633,6 +2664,7 @@ der Stab
 | bewertet ... als | bewerten als | 評價為、視為 | 否 | 現在時 | Akkusativ + als + Nomen |
 
 **例句**
+
 - *Die Experten bewerten die Maßnahme als rechtmäßig.*  
 - *Das Gericht bewertet den Einspruch als begründet.*
 
@@ -2752,6 +2784,7 @@ mit dem Antrag auf einstweilige Anordnung
 | ist ... deckungsgleich mit | deckungsgleich sein mit | 在實體上或程序上相符 | 否 | 現在時 + 形容詞 | Dativ（比較對象） |
 
 **例句**  
+
 - *Der Beschluss beinhaltet keine Regelung zur Kostenfrage.*  
 - *Der Klageantrag ist nicht deckungsgleich mit dem Hilfsantrag.*
 
@@ -2833,6 +2866,7 @@ mit dem Antrag auf einstweilige Anordnung
 | wird ... abgestellt | abstellen auf | 著眼於、以……為依據 | 是 | Passiv（被動語態） | auf + Akkusativ |
 
 **例句**  
+
 - *Ein öffentliches Interesse ist nicht erkennbar.*  
 - *Die Bewertung wird auf mehrere Kriterien abgestellt.*
 
@@ -2928,6 +2962,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | fehlt | fehlen | 缺少、缺乏 | 否 | 現在時，第三人稱單數 | Nominativ（主詞為缺乏的東西） |
 
 **例句**
+
 - *Ein tragfähiges Konzept fehlt.*  
 - *Es fehlt an ausreichender Transparenz.*
 
@@ -3022,6 +3057,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | war | sein | 是（過去式） | 否 | Indikativ Präteritum | 無 |
 
 **例句**
+
 - *Diese Argumentation wird der Sache nicht gerecht.*  
 - *Er sagt, die Lösung sei ausreichend gewesen.*  
 - *Das Gesetz war schon oft diskutiert worden.*
@@ -3113,6 +3149,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | sei erfolgt | erfolgen | 發生、進行（不及物） | 否 | Konjunktiv I Perfekt | 無 |
 
 **例句**
+
 - *Das Gericht wird sich mit dem Einwand befassen müssen.*  
 - *Es sei eine ausreichende Beteiligung erfolgt, heißt es.*
 
@@ -3200,6 +3237,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | könne ... vorliegen | vorliegen | 存在、成立（法律上） | 可分 | Konjunktiv I | 無 |
 
 **例句**
+
 - *Diese Meinung ist nicht haltbar.*  
 - *Es könne ein Verstoß vorliegen, heißt es im Urteil.*
 
@@ -3293,6 +3331,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | wird ... sein | sein | 是（將會是） | 否 | Futur I（未來時） | 主詞為整句疑問句 |
 
 **例句**  
+
 - *Inwieweit dies eine Rolle spielt, ist umstritten.*  
 - *Diese Frage wird Gegenstand der Entscheidung sein.*
 
@@ -3413,6 +3452,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | ist ... zulässig | zulassen（過去分詞作形容詞） | 被允許、合法的 | 是 | Zustandspassiv | 主詞為 Gesetzgebung |
 
 **例句**
+
 - *Der Einwand wurde im Verfahren vorgetragen.*  
 - *Das Urteil betrifft grundlegende Rechte.*  
 - *Eine solche Maßnahme ist nicht zulässig.*
@@ -3545,6 +3585,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | meint | meinen | 表示、認為 | 否 | Indikativ, Präsens | 無（引述主句） |
 
 **例句**
+
 - *Es sei den Betroffenen zuzumuten, die Bedingungen zu akzeptieren.*  
 - *Sie meint, das Gesetz sei unausgereift.*
 
@@ -3650,6 +3691,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | verfehlt | verfehlen | 未能達成、偏離、錯失 | 否 | 現在時，第三人稱單數 | Akkusativ（受詞為 Anforderungen） |
 
 **例句**
+
 - *Diese Argumentation verfehlt das Problem.*  
 - *Die Behörde verfehlt ihre gesetzliche Pflicht.*
 
@@ -3750,6 +3792,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | stellt ... dar  | darstellen          | 構成、表現、意味著     | 可分      | 現在時，固定搭配 “etwas dar(stellen)” | 宾语使用 Akkusativ |
 
 **例句**
+
 - *Diese Regelung stellt einen Verstoß gegen das Gesetz dar.*  
 - *Die neue Praxis stellt keine unzulässige Beeinträchtigung dar.*
 
@@ -3870,6 +3913,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | machen | machen | 使……清楚、表達 | 否（搭配 *deutlich*） | Infinitiv (mit Modalverb) | Akkusativ（Mindestanforderungen） |
 
 **例句**
+
 - *Dem Schutz der Grundrechte muss Rechnung getragen werden.*  
 - *Die Behörde macht ihre Anforderungen deutlich.*
 
@@ -3989,6 +4033,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | bedeutet | bedeuten | 意味著、代表     | 否        | 現在時第三人稱單數 | Akkusativ（den Verzicht） |
 
 **例句**
+
 - *Dies bedeutet einen Kurswechsel.*  
 - *Das Urteil bedeutet das Ende der Debatte.*
 
@@ -4112,6 +4157,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | zu behandeln          | behandeln      | 處理、對待                    | 否        | 不定詞 mit *zu*                  | Akkusativ          |
 
 **例句**
+
 - *Die Regierung ist zum Handeln gefordert.*  
 - *Wir müssen uns von alten Mustern verabschieden.*  
 - *Auch kritische Fälle sind sorgfältig zu behandeln.*
@@ -4180,6 +4226,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
   - **介詞補語（auf + Akk.）**：*auf eine Behandlung*
     - *Behandlung*：處理、審議
     - *eine*：不定冠詞
+
   - **屬格補語**：*des Gesetzes*
   - **地點／時間狀語補充**：*in der Sommerpause*
 
@@ -4206,6 +4253,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
     - 限定語：
       - *zuvor*（此前）
       - *vehement vertretenen*（強烈主張的）
+
   - **介詞短語補語**：*vom besonderen Eilbedarf*
     - *von dem* → *vom*，表來源、主張內容
 
@@ -4220,6 +4268,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | legt ... offen | offenlegen   | 揭示、暴露             | 是        | 現在時第三人稱單數 | Akkusativ（die Schwächen） |
 
 **例句**
+
 - *Diese Entscheidung legt strukturelle Probleme offen.*  
 - *Der Bericht legt die Missstände offen.*
 
@@ -4335,6 +4384,7 @@ Insbesondere fehlt ein besonderer Eilbedarf wie bei einzelnen 【Maßnahmen，�
 | war      | sein | 是、曾為 | 否        | Präteritum（過去式） | 搭配表語名詞 |
 
 **例句**
+
 - *Er war bis 2010 Richter am BVerfG.*
 
 ---

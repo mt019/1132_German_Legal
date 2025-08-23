@@ -29,11 +29,13 @@
 > *„Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.“*  
 
 此條款確立了德國的國家基本架構，涵蓋以下三大原則：
+
 - **民主國家（Demokratischer Staat）**：確立人民主權，政府由選舉產生。
 - **社會國家（Sozialer Staat）**：政府須保障社會公平，如提供社會福利。
 - **聯邦國家（Bundesstaat）**：權力由聯邦與各邦（Länder）共享，確保地方自治。
 
 **法律影響：**
+
 - **「民主原則」受《基本法》第 79(3) 條保護，無法透過修憲變更（「永恆條款」Ewigkeitsklausel）。**
 - **「社會國家原則」確保國家須提供最低社會保障，如基本生活保障（Sozialhilfe）。**
 - **「聯邦制」確保德國非中央集權體制，各邦享有立法與行政自主權（Art. 70 GG 及以下條文）。**
@@ -46,6 +48,7 @@
 本款確立了**人民主權（Volkssouveränität）**原則，並結合**代議制民主（repräsentative Demokratie）**運行國家權力。
 
 **國家權力運作方式：**
+
 - **選舉（Wahlen）**：如聯邦議院（Bundestag）選舉，由公民投票決定議員席次。
 - **公投（Abstimmungen）**：主要適用於邦層級，聯邦層級罕見使用。
 - **國家機關（Staatsorgane）**：
@@ -53,7 +56,6 @@
   - **行政機關（vollziehende Gewalt）** → 聯邦政府（Bundesregierung）、邦政府（Landesregierung）。
   - **司法機關（Rechtsprechung）** → 憲法法院（Bundesverfassungsgericht, BVerfG）及普通法院系統。
 
-***
 
 ### **(3) 法治國原則（Rechtsstaatsprinzip）**
 > *„Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.“*  
@@ -63,11 +65,13 @@
 Rechts：法原則，法理學的「法」
 
 本款強調**法律至上（Vorrang des Gesetzes）**與**權力分立（Gewaltenteilung）**：
+
 - **立法（Gesetzgebung）**：必須符合憲法原則，不能違反《基本法》或人權保障條款。
 - **行政（Exekutive）**：政府必須依法行政，不得濫用權力。
 - **司法（Judikative）**：法院須遵循法律，確保裁判公正性。
 
 **影響：**
+
 - **防止專斷統治，確保政府運作符合法律規範。**
 - **人民可以透過法院訴訟挑戰違憲或違法的政府行為（如聯邦憲法法院的違憲審查）。**
 
@@ -79,11 +83,13 @@ Rechts：法原則，法理學的「法」
 本款確立了**憲政秩序的最後防線**，允許人民在極端情況下進行抵抗。
 
 **適用條件：**
+
 1. **針對「這一秩序」（diese Ordnung）** → 係指憲法規範的民主與法治制度。
 2. **針對「任何企圖顛覆者」（jeden, der es unternimmt, diese Ordnung zu beseitigen）** → 包括內部（如政變、獨裁）或外部（如外國侵略）。
 3. **「當其他救濟方式皆無效」（wenn andere Abhilfe nicht möglich ist）** → 必須先嘗試合法手段（如訴訟、政治抗議）。
 
 **歷史背景：**
+
 - **納粹時期（1933-1945）**：魏瑪憲法未提供明確的「抵抗權」，導致希特勒合法掌權。
 - **本條款作為民主制度的最後保障**，確保公民在憲政秩序被破壞時，能有合法手段進行抵抗。
 
@@ -173,6 +179,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
   - **選舉結果決定政黨勢力，而非個別政治家的權力。**
 
 **法律影響：**
+
 - **聯邦憲法法院（BVerfG）判決確認，政黨在民主制度中的作用受憲法保護。**
 - **即使是不在議會中的政黨，也享有影響公共討論的權利（如社會運動、媒體活動）。**
 
@@ -186,6 +193,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 - 這一條文防止專制政府限制反對勢力，確保**多元民主（Pluralismus）**。
 
 **例外情況（限制）：**
+
 - **如果政黨違反憲法秩序（如納粹、極端恐怖組織），可以被取締。**
 - **聯邦憲法法院（BVerfG）有權解散違憲政黨（Art. 21(2) GG）。**
 
@@ -200,6 +208,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
   - **禁止獨裁式黨內運作**（如極權政黨）。
 
 **法律依據：**
+
 - **《政黨法》第 6 條（§ 6 PartG）** 詳細規定黨內民主原則：
   - 黨內領導人應由黨員選舉產生。
   - 黨內財務、決策應向全體黨員公開。
@@ -216,11 +225,13 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
   - **財產狀況**（Vermögen）：如不動產、資產管理。
 
 **法律依據：**
+
 - **《政黨法》第 23-31 條（§§ 23-31 PartG）** 規定：
   - 每個政黨**必須向聯邦議院提交年度財務報告**。
   - 任何政黨若違反財務公開義務，可被罰款或撤銷國家補助。
 
 **案例：**
+
 - **2016 年，德國「另類選擇黨」（AfD）因未公開部分政治捐款，被處以高額罰款。**
 
 ***
@@ -236,6 +247,7 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
 | **中國** | ❌ 只有官方政黨 | ❌ 無民主機制 | ❌ 財務不透明 |
 
 **結論：**
+
 - 德國**保障政黨自由成立**，但要求其運作符合**民主原則**。
 - **財務透明度高**，避免政黨資金來源不明，防止非法政治影響力。
 - **與美國不同，德國的政黨不是私人組織，而是公共機構，受憲法與法律監管。**
@@ -270,10 +282,12 @@ Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Verm�
    - **die** → 關係代詞（指代「Parteien」）  
    - **nach ihren Zielen** → 根據它們的目標  
      - **nach + Dativ（介詞搭配）**：表示根據、依據  
+
    - **oder nach dem Verhalten ihrer Anhänger** → 或根據其支持者的行為  
      - **nach + Dativ（介詞搭配）**  
      - **das Verhalten（行為）** → **dem Verhalten**（與格）  
      - **ihre Anhänger（他們的支持者，複數）** → **ihrer Anhänger（屬格）**  
+
    - **darauf ausgehen, …** → 旨在、試圖  
      - **ausgehen auf + Akkusativ**：表示「以……為目的」  
 
@@ -435,6 +449,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 **翻譯**：「年滿 18 歲者具有選舉權；達到成年年齡者具有被選舉權。」  
 
 **法律解析**：
+
 - **選舉權（aktives Wahlrecht）**：18 歲以上公民可投票。  
 - **被選舉權（passives Wahlrecht）**：18 歲以上公民可競選議員。  
 - **《基本法》第 38(2) 條確保成年公民享有民主參與權。**  
@@ -450,6 +465,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 **翻譯**：「具體規範由聯邦法律決定。」  
 
 **解析**：
+
 - **選舉的技術性細節**（如選舉制度、投票方式）由**《聯邦選舉法》（Bundeswahlgesetz, BWahlG）**規定。  
 - **選舉機構、選舉爭議處理、政黨參與規則**等由**《政黨法》（Parteiengesetz, PartG）**補充規範。  
 
@@ -466,6 +482,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 | **英國** | 18 歲 | 單一選區多數決制（FPTP） | 緊密代表制（部分黨鞭制度） |
 
 **結論：**
+
 - **德國的選舉制度更注重公平性與代表性**，避免單一多數決制的「勝者全拿」現象。  
 - **德國議員獨立性強，不受選區或政黨指令約束**，與美國、英國不同。  
 - **選舉技術細節由聯邦法律決定，確保憲法框架內的彈性調整空間。**  
@@ -648,6 +665,7 @@ Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden 
 | **法國** | **半總統制** | 總統提名，總理推薦 | 總統與總理共同決定 |
 
 **結論：**
+
 - **德國的「總理由則」確保總理擁有內閣控制權**，總統僅形式上參與。
 - **相比美國總統制，德國總理的權力主要來自議會，而非個人直接當選**。
 

@@ -28,4 +28,3 @@ im gegenzug hatte man die regelung von organisation, verfahren und besezung des 
 über die nähere Ausgestaltung des BVerfG konnte son im Wege einfacher gesetzgebung wittgehend der bundestag entscheiden
 
 der kontrollierte bestimmt alse teilwise über den Kontrolleur
-

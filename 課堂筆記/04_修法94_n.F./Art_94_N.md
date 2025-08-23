@@ -533,6 +533,7 @@ und Beauftragte zu allen Behörden entsenden.
  -->
 
 <!-- 【師】
+
 - 聯邦法，邦執行
 - 聯邦行使監督權
  -->
@@ -749,6 +750,7 @@ soweit nicht ein anderer Rechtsweg gegeben ist
 [「等同於基本權之權利」(grundrechtsgleiche Rechte)：Artikel 20 Absatz 4, 33, 38, 101, 103 und 104](20-104等同基本權.md)
 
 <!-- 等同於基本權之權利
+
 - **Art. 20 Abs. 4 GG**：抵抗權
 - **Art. 33 GG**：公職平等權
 - **Art. 38 GG**：選舉權
@@ -1286,6 +1288,7 @@ im gesamtstaatlichen Interesse eine bundesgesetzliche Regelung erforderlich mach
 就第74條第1項第4、7、11、13、15、19a、20、22、25與26款所列之領域，聯邦只有在為了建立全國同質的生活條件，或為了整體國家利益維護法制與經濟統一時，始享有立法權。
 
 【註釋】
+
 - 本項是「競合立法」（konkurrierende Gesetzgebung）的核心條件規定。
 - 表示邦原則上有立法權，但若符合「必要性」（Erforderlichkeit）條件，聯邦可介入。
 - 此處提到的 Lebensverhältnisse（生活條件）與 Wirtschaftseinheit（經濟統一）成為憲法上授權標準。
@@ -1303,6 +1306,7 @@ durch Landesrecht ersetzt werden kann.
 聯邦法律得規定，若第2項所稱的「必要性」已不存在，則原本由聯邦規範之事項，得由邦法取而代之。
 
 【註釋】
+
 - 本條設計為「權限退讓」條款。
 - 一旦立法必要性不再存在，透過一部**聯邦法律**規定，即可由邦重新取得立法權。
 - 是否仍具必要性，可由憲法法院判定（見 Art. 94 Abs. 1 Nr. 5 GG）。
@@ -1320,6 +1324,7 @@ Bundesrecht erlassen werden könnte, gilt als Bundesrecht fort.
 根據1994年11月15日前版本之第72條第2項所制定的聯邦法，雖因該條項變更而不再能作為聯邦法制定，其仍繼續作為聯邦法有效存在。
 
 【註釋】
+
 - 此條處理憲法修正導致法源失效時的過渡問題。
 - 舊法若依 Art. 72 Abs. 2（舊版）制定，在新憲法下雖無依據，仍「暫時有效」。
 - 但其地位可**透過憲法法院判斷並可能被邦法取代**（Art. 125a Abs. 2 S. 2 GG，Art. 94 GG）。
@@ -1892,7 +1897,6 @@ Bundesrecht erlassen werden könnte, gilt als Bundesrecht fort.
   - Gesetzeskraft：形式等同法律（Satz 2）
 - **BVerfGG 第31條**：詳細規定具 Gesetzeskraft 之裁判類型
 - **Abstrakte Normenkontrolle**（抽象規範審查）裁判具有 Gesetzeskraft
-
 
 
 

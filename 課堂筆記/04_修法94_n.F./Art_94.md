@@ -36,6 +36,7 @@
 | entscheidet | entscheiden | 主動語態 | 現在時（Präsens） | 第三人稱單數 | 裁決、裁定 | 無特定格要求，常接 *über + Akk.* 或直接受詞 |
 
 **例句：**  
+
 - *Das Gericht entscheidet über die Verfassungsmäßigkeit des Gesetzes.*  
   （法院對該法律是否合憲作出裁定。）
 
@@ -131,6 +132,7 @@
 | ausgestattet sind | ausstatten | mit | Dativ | Zustandspassiv | 被賦予某種權利或能力 |
 
 **例句：**  
+
 - *Das Gericht entscheidet über die Auslegung des Gesetzes.*  
 - *Sie sind mit eigenen Rechten ausgestattet.*
 
@@ -197,10 +199,12 @@
 
 - **Organstreitverfahren（機關爭訟程序）**  
   用以解決憲政機關間因解釋、行使憲法職權產生的爭議  
+
   - 要件：申請人須具憲法地位，且具「eigenes Recht」
 
 - **eigene Rechte**  
   指憲法明文或議事規則所保障之自身主體性權利  
+
   - 與一般「利益」或「功能」有別，須為可訴主體的具體法律地位
 
 
@@ -249,6 +253,7 @@
 | entscheidet | entscheiden | 否 | über | Akkusativ | 裁定、判斷 |
 
 **例句：**  
+
 - *Das Gericht entscheidet über die Vereinbarkeit eines Gesetzes mit dem Grundgesetz.*
 
 #### **2.2 名詞解析（變格與原形）**
@@ -277,6 +282,7 @@
   - 用於 *Vereinbarkeit mit ...* 表示「與……是否一致」
 
 **例句：**  
+
 - *Die Prüfung erfolgt auf Antrag der Landesregierung.*  
 - *Die Vereinbarkeit des Gesetzes mit dem Grundgesetz ist fraglich.*
 
@@ -289,6 +295,7 @@
 #### **3.2 德國基本法（GG）相關條文**
 
 <!-- - **Art. 93 Abs. 1 Nr. 2 GG a.F.**：舊版條文即已有類似審查權 -->
+
 - **Art. 72 GG**：本款與第2a款有內在關聯，均涉及聯邦法律之合法性
 
 #### **3.3 相關法學概念**
@@ -345,6 +352,7 @@
 | entspricht | entsprechen | — | Dativ | 符合、滿足條件 | 關鍵從句動詞（ob-Satz） |
 
 **例句：**  
+
 - *Es besteht Uneinigkeit, ob das Gesetz den Voraussetzungen entspricht.*  
 - *Das Gericht entscheidet auf Antrag der Landesregierung.*
 
@@ -426,6 +434,7 @@
   - *Rechte und Pflichten des Bundes und der Länder*：主體爭議內容
   - *insbesondere bei der Ausführung von Bundesrecht durch die Länder*  
     - 特別指出邦執行聯邦法的情況
+
   - *und bei der Ausübung der Bundesaufsicht*  
     - 補充另一情況：聯邦對邦的監督行使
 
@@ -442,6 +451,7 @@
 | entscheidet | entscheiden | über（省略） | Akkusativ（省略） | 作出裁定 | 法律裁判用語，省略受詞情況常見 |
 
 **例句：**  
+
 - *Das Bundesverfassungsgericht entscheidet bei Meinungsverschiedenheiten über Zuständigkeiten.*
 
 #### **2.2 名詞解析（變格與原形）**
@@ -467,6 +477,7 @@
   - *durch die Länder*：表示執行者為邦政府
 
 **例句：**  
+
 - *Die Länder führen das Bundesrecht als eigene Angelegenheit aus.*  
 - *Die Bundesaufsicht wird durch Weisungen ausgeübt.*
 
@@ -542,6 +553,7 @@
 | gegeben ist | geben (Passiv) | — | — | 存在、有（作靜態被動） | Zustandspassiv（靜態被動） |
 
 **例句：**  
+
 - *Das Gericht entscheidet in verfassungsrechtlichen Streitigkeiten zwischen den Ländern.*  
 - *Soweit kein anderer Rechtsweg gegeben ist, ist das Bundesverfassungsgericht zuständig.*
 
@@ -570,6 +582,7 @@
   - 條件連接詞，表示「只要不……的情況下」
 
 **例句：**  
+
 - *Der Rechtsweg ist nicht gegeben, soweit es sich um originäre Zuständigkeit handelt.*
 
 #### **2.4 形容詞與副詞解析**
@@ -592,6 +605,7 @@
 #### **3.2 德國基本法（GG）相關條文**
 
 <!-- - **Art. 93 Abs. 1 Nr. 4 GG a.F.**：本款係原93條中所列，2024年修法後歸入94條 -->
+
 - **Art. 19 Abs. 4 GG**：規定有權利者應有有效法律途徑，與本條款「無其他法律途徑」概念互補
 
 #### **3.3 相關法學概念**
@@ -651,6 +665,7 @@
 | verletzt zu sein | verletzen (zu-Infinitiv mit *sein*) | — | Akkusativ（被害主體） | 被侵犯 | 義務/狀態表述 |
 
 **例句：**  
+
 - *Jedermann kann eine Verfassungsbeschwerde erheben.*  
 - *Er behauptet, in seinen Grundrechten verletzt zu sein.*
 
@@ -677,6 +692,7 @@
   - *durch die öffentliche Gewalt*：由公權力造成的侵犯
 
 **例句：**  
+
 - *Die Klage wird mit der Behauptung erhoben, verletzt zu sein.*  
 - *Das Gericht entscheidet über die Verfassungsbeschwerde.*
 
@@ -749,6 +765,7 @@
 | erhoben werden kann | erheben + Passiv + Modalverb | — | Akkusativ（隱含） | 能否提出（訴願） | Modal + 被動 |
 
 **例句：**  
+
 - *Die Gemeinde erhebt Verfassungsbeschwerde wegen Verletzung ihres Selbstverwaltungsrechts.*  
 - *Eine Beschwerde kann nur dann beim Bundesverfassungsgericht erhoben werden, soweit kein Landesgericht zuständig ist.*
 
@@ -780,6 +797,7 @@
   - 條件副句：*soweit nicht Beschwerde ... erhoben werden kann*
 
 **例句：**  
+
 - *Die Beschwerde wegen Verletzung der kommunalen Selbstverwaltung ist zulässig.*  
 - *Soweit ein Landesverfassungsgericht zuständig ist, entfällt die Zuständigkeit des BVerfG.*
 
@@ -850,6 +868,7 @@
 | entscheidet | entscheiden | über | Akkusativ | 作出裁決 | 主句動詞，法定決定權 |
 
 **例句：**  
+
 - *Das Bundesverfassungsgericht entscheidet über die Beschwerde einer Partei gegen ihre Nichtanerkennung.*
 
 #### **2.2 名詞解析（變格與原形）**
@@ -881,6 +900,7 @@
   - *zum Bundestag*：表示方向或用途
 
 **例句：**  
+
 - *Die Vereinigung erhebt Beschwerde gegen ihre Nichtanerkennung als Partei für die Bundestagswahl.*
 
 
@@ -949,6 +969,7 @@
 | entscheidet | entscheiden | in | Dativ | 在某些情況下作出裁決 | 法定授權用語 |
 
 **例句：**  
+
 - *Das Gericht entscheidet in den vom Gesetz vorgesehenen Fällen.*
 
 #### **2.2 名詞解析（變格與原形）**
@@ -967,6 +988,7 @@
   - 某事在某處被規定、預見
 
 **例句：**  
+
 - *Solche Fälle sind im Grundgesetz ausdrücklich vorgesehen.*  
 - *Das Gericht entscheidet in den übrigen gesetzlich vorgesehenen Fällen.*
 
@@ -1185,6 +1207,7 @@
 | könnte ... erlassen werden | erlassen + können | — | 被動 | Konjunktiv II | 可以被制定（但現已不可能） |
 
 **例句：**  
+
 - *Die Erforderlichkeit für eine Regelung besteht nicht mehr.*  
 - *Ein Gesetz könnte nicht mehr erlassen werden.*
 
@@ -1290,6 +1313,7 @@
 | könnte ... erlassen werden | erlassen (mit können) | 被動 + Konjunktiv II | 假設語氣 | 不再可能制定 | 假設立法無可能性 |
 
 **例句：**  
+
 - *Die gerichtliche Feststellung ersetzt ein Gesetz.*  
 - *Die Notwendigkeit ist entfallen.*  
 - *Ein Gesetz könnte nicht mehr erlassen werden.*
@@ -1384,6 +1408,7 @@
 | Beschluss gefasst worden ist | Beschluss fassen | 被動（短語） | Perfekt | — | 作出決議 |
 
 **例句：**  
+
 - *Der Antrag ist nur zulässig, wenn das Gesetz abgelehnt wurde.*  
 - *Über die Vorlage wurde nicht beraten.*
 
@@ -1475,6 +1500,7 @@
 | zugewiesen | zuweisen | 被動語態（Partizip II） | 被指派、被賦予 | Dativ + Akkusativ |
 
 **例句：**  
+
 - *Das Gericht wird tätig, sobald ein Antrag vorliegt.*  
 - *Dem Gericht wurden neue Aufgaben durch Gesetz zugewiesen.*
 
@@ -1574,6 +1600,7 @@
 | binden | binden | 現在時 | 主動 | Akk. | 約束、具有法律效力 |
 
 **例句：**  
+
 - *Gerichtliche Entscheidungen binden die Behörden.*  
 
 ##### **2.2 名詞解析**
@@ -1599,6 +1626,7 @@
 ##### **3.1 本句的核心主題**
 
 明確規定聯邦憲法法院的裁決對整個憲政秩序具有**普遍拘束力**，包括：  
+
 - 聯邦與邦的憲法機關（如議會、政府、總統等）  
 - 所有司法機關（Gerichte）  
 - 所有行政機關（Behörden）
@@ -1669,6 +1697,7 @@
 - *in welchen Fällen*：疑問副詞引導之從句，表示「在何種情況下」  
 
 **例句：**  
+
 - *Das Gesetz bestimmt, wann ein Urteil Gesetzeskraft hat.*
 
 #### **3. 法學背景**
@@ -1690,7 +1719,6 @@
 
 - **richterliches Recht mit Gesetzesrang**  
   法院所創設之裁決，具有與法律同等地位，極為罕見與例外
-
 
 
 

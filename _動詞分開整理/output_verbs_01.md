@@ -13,6 +13,7 @@
    - 主語：Art. 38 I 2 GG（《基本法》第38條第1項第2句）
        * 性質：陽性單數
        * 原形：der Artikel 38
+
    - 動詞形態：garantiert
    - 受詞：den Status der Gleichheit der Abgeordneten（議員的平等地位, 第四格）
        * 性質：陽性單數
@@ -35,6 +36,7 @@
    - 主語：Alle Abgeordneten（所有議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：sind berufen
 
 ### 介詞支配與搭配
@@ -42,9 +44,11 @@
 - **支配介詞結構**：`zu + 第三格`
   - 例句：`Die Abgeordneten sind zu gleichmäßiger Teilhabe an der Willensbildung berufen.`
     - 翻譯：議員被賦予平等參與意志形成的資格。
+
    - 主語：Die Abgeordneten（議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：sind ... berufen
    - 受詞：zu gleichmäßiger Teilhabe（平等參與, 第三格）
        * 性質：陰性單數
@@ -67,6 +71,7 @@
    - 主語：Die Abgeordneten（議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：wirken ... mit
    - 受詞：an der parlamentarischen Willensbildung（議會意志形成, 第三格）
        * 性質：陰性單數
@@ -77,9 +82,11 @@
 - **支配介詞結構**：`an + 第三格`
   - 例句：`Die Mitglieder wirken an dem Gesetzgebungsprozess mit.`
     - 翻譯：成員參與立法程序。
+
    - 主語：Die Mitglieder（成員）
        * 性質：複數
        * 原形：das Mitglied
+
    - 動詞形態：wirken ... mit
    - 受詞：an dem Gesetzgebungsprozess（立法程序, 第三格）
        * 性質：陽性單數
@@ -102,6 +109,7 @@
    - 中文翻譯：議員享有表決的權利。
    - 主語：das Recht（權利）
        * 性質：中性單數
+
    - 動詞形態：steht ... zu
    - 受詞：Den Abgeordneten（議員, 第三格）
        * 性質：複數
@@ -125,6 +133,7 @@
    - 主語：Diese Regelung（該規定）
        * 性質：陰性單數
        * 原形：die Regelung
+
    - 動詞形態：setzt ... voraus
    - 受詞：hinreichende Informationen（充分資訊, 第四格）
        * 性質：陰性複數
@@ -147,6 +156,7 @@
    - 主語：Die Abgeordneten（議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：müssen erlangen
    - 受詞：Informationen（資訊, 第四格）
        * 性質：陰性複數
@@ -169,6 +179,7 @@
    - 主語：Die Abgeordneten（議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：können verarbeiten
    - 受詞：Informationen（資訊, 第四格）
        * 性質：陰性複數
@@ -192,6 +203,7 @@
    - 主語：Die Abgeordneten（議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：sollen sich bilden
    - 受詞：sich（自己（反身代詞）, 第四格）
    - 受詞：eine eigene Meinung（一個自己的意見, 第四格）
@@ -215,6 +227,7 @@
    - 主語：Der Senat（聯邦憲法法院）
        * 性質：陽性單數
        * 原形：der Senat
+
    - 動詞形態：hat ... entschieden
 
 ### 介詞支配與搭配
@@ -222,9 +235,11 @@
 - **支配介詞結構**：`über + 第四格`
   - 例句：`Das Gericht entscheidet über die Verfassungsbeschwerde.`
     - 翻譯：法院裁決憲法申訴案。
+
    - 主語：Das Gericht（法院）
        * 性質：中性單數
        * 原形：das Gericht
+
    - 動詞形態：entscheidet
    - 受詞：über die Verfassungsbeschwerde（憲法申訴案, 第四格）
        * 性質：陰性單數
@@ -247,6 +262,7 @@
    - 中文翻譯：該權限保留給議會多數。
    - 主語：Es（形式主詞）
        * 性質：中性單數
+
    - 動詞形態：ist ... vorbehalten
    - 受詞：der Parlamentsmehrheit（議會多數, 第三格）
        * 性質：陰性單數
@@ -269,6 +285,7 @@
    - 主語：Die Parlamentsmehrheit（議會多數）
        * 性質：陰性單數
        * 原形：die Parlamentsmehrheit
+
    - 動詞形態：bestimmt
    - 受詞：die Prioritäten und Abläufe（優先事項與流程, 第四格）
        * 性質：陰性複數
@@ -291,6 +308,7 @@
    - 主語：Das Grundgesetz（基本法）
        * 性質：中性單數
        * 原形：das Grundgesetz
+
    - 動詞形態：enthält
    - 受詞：keine Vorgaben（具體規定, 第四格）
        * 性質：陰性複數
@@ -312,6 +330,7 @@
    - 中文翻譯：需要考慮所有情況。
    - 主語：Es（形式主詞）
        * 性質：中性單數
+
    - 動詞形態：bedarf
    - 受詞：der Berücksichtigung sämtlicher Umstände（所有情況的考慮, 第二格）
        * 性質：陰性單數
@@ -333,6 +352,7 @@
    - 中文翻譯：議員享有表決權。
    - 主語：das Recht（權利）
        * 性質：中性單數
+
    - 動詞形態：abzustimmen
 
 ### 介詞支配與搭配
@@ -340,9 +360,11 @@
 - **支配介詞結構**：`über + 第四格`
   - 例句：`Die Abgeordneten stimmen über den Gesetzesentwurf ab.`
     - 翻譯：議員對法案草案進行表決。
+
    - 主語：Die Abgeordneten（議員）
        * 性質：複數
        * 原形：der Abgeordnete
+
    - 動詞形態：stimmen ... ab
    - 受詞：über den Gesetzesentwurf（法案草案, 第四格）
        * 性質：陽性單數
@@ -364,6 +386,7 @@
    - 中文翻譯：議員也有權進行審議。
    - 主語：das Recht（權利）
        * 性質：中性單數
+
    - 動詞形態：zu beraten
 
 ### 介詞支配與搭配
@@ -371,9 +394,11 @@
 - **支配介詞結構**：`über + 第四格`
   - 例句：`Der Bundestag berät über den Gesetzentwurf.`
     - 翻譯：聯邦議會審議法案草案。
+
    - 主語：Der Bundestag（聯邦議會）
        * 性質：陽性單數
        * 原形：der Bundestag
+
    - 動詞形態：berät
    - 受詞：über den Gesetzentwurf（法案草案, 第四格）
        * 性質：陽性單數
@@ -395,6 +420,7 @@
    - 中文翻譯：他們擁有討論的權利。
    - 主語：sie（他們）
        * 性質：複數
+
    - 動詞形態：zu verhandeln
 
 ### 介詞支配與搭配
@@ -402,9 +428,11 @@
 - **支配介詞結構**：`über + 第四格`
   - 例句：`Die Ausschüsse verhandeln über das Gesetz.`
     - 翻譯：委員會就該法案進行討論。
+
    - 主語：Die Ausschüsse（委員會）
        * 性質：複數
        * 原形：der Ausschuss
+
    - 動詞形態：verhandeln
    - 受詞：über das Gesetz（該法案, 第四格）
        * 性質：中性單數

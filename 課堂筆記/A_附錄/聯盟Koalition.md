@@ -31,6 +31,7 @@ Koalitionsfraktionen（SPD、Grüne、FDP）為法案的推動主體，於 2023 
 
 ### 2. 程序控制角色
 Koalition 掌控下列重要程序節奏與安排：
+
 - **提交與修改草案**（由聯邦經濟暨氣候保護部提供 Formulierungshilfe）
 - **專家聽證時程壓縮**（6 月 21 日與 7 月 3 日兩場）
 - **安排最終表決日期**（7 月 7 日）
@@ -86,11 +87,13 @@ Koalition 掌控下列重要程序節奏與安排：
 ---
 
 **參考法條**
+
 - Art. 38 Abs. 1 Satz 2 GG（議員地位平等）
 - Art. 76 ff. GG（立法程序）
 - Art. 42 GG（議會程序公開原則）
 
 **參考資料**
+
 - [BVerfG, 2 BvE 4/23 判決全文](https://www.bverfg.de/e/es20230705_2bve000423)
 - [Bundestagswahl 2025 – 維基百科](https://de.wikipedia.org/wiki/Bundestagswahl_2025)
 - [ZDF 大選結果報導](https://www.zdf.de/nachrichten/politik/deutschland/bundestagswahl-2025-deutschland-wahlergebnisse-parteien-merz-scholz-100.html)

@@ -13,6 +13,7 @@
    - 主語：ein weiter Gestaltungsspielraum（廣泛的形成空間）
        * 性質：陽性單數
        * 原形：der Gestaltungsspielraum
+
    - 動詞形態：steht ... zu
    - 受詞：der Parlamentsmehrheit（議會多數, 第三格）
        * 性質：陰性單數
@@ -35,10 +36,12 @@
    - 中文翻譯：程序自主權並不使議會多數免除遵守議員平等地位的義務。
    - 主語：die Verfahrensautonomie（程序自主權）
        * 性質：陰性單數
+
    - 動詞形態：entbindet
    - 受詞：die Parlamentsmehrheit（議會多數, 第四格）
        * 性質：陰性單數
        * 原形：die Parlamentsmehrheit
+
    - 受詞：von der Beachtung des Status（遵守地位的義務, 第三格）
        * 性質：陽性單數
        * 原形：der Status
@@ -48,12 +51,15 @@
 - **支配介詞結構**：`von + 第三格`
   - 例句：`Die Regelung entbindet den Ausschuss von seiner Kontrollpflicht.`
     - 翻譯：該規定使委員會免除其監督義務。
+
    - 主語：die Regelung（規定）
        * 性質：陰性單數
+
    - 動詞形態：entbindet
    - 受詞：den Ausschuss（委員會, 第四格）
        * 性質：陽性單數
        * 原形：der Ausschuss
+
    - 受詞：von seiner Kontrollpflicht（監督義務, 第三格）
        * 性質：陰性單數
        * 原形：die Kontrollpflicht
@@ -74,6 +80,7 @@
    - 中文翻譯：議會多數忽視了議員平等地位的地位。
    - 主語：die Parlamentsmehrheit（議會多數）
        * 性質：陰性單數
+
    - 動詞形態：missachtet
    - 受詞：den Status der Gleichheit der Abgeordneten（議員平等地位的地位, 第四格）
        * 性質：陽性單數
@@ -95,6 +102,7 @@
    - 中文翻譯：議員權利受到侵犯。
    - 主語：das Abgeordnetenrecht（議員權利）
        * 性質：中性單數
+
    - 動詞形態：wird verletzt
 
 
@@ -113,6 +121,7 @@
    - 中文翻譯：存在濫用程序自主權的可能性。
    - 主語：die Möglichkeit（可能性）
        * 性質：陰性單數
+
    - 動詞形態：zu missbrauchen
    - 受詞：die Verfahrensautonomie（程序自主權, 第四格）
        * 性質：陰性單數
@@ -134,6 +143,7 @@
    - 中文翻譯：目的是限制議員的參與權利。
    - 主語：es（這（指前文提及的目的））
        * 性質：中性單數
+
    - 動詞形態：einzuschränken
    - 受詞：die Teilhaberechte der Abgeordneten（議員的參與權, 第四格）
        * 性質：中性複數
@@ -156,6 +166,7 @@
    - 主語：Art. 77 Abs. 1 GG（第 77 條第 1 款 GG）
        * 性質：陽性單數
        * 原形：der Artikel
+
    - 動詞形態：bietet
    - 受詞：keine Grundlage（沒有依據, 第四格）
        * 性質：陰性單數
@@ -177,6 +188,7 @@
    - 主語：Der Ausgang des Hauptsacheverfahrens（本案實體審理的結果）
        * 性質：陽性單數
        * 原形：der Ausgang
+
    - 動詞形態：erscheint
    - 受詞：offen（未定, None）
        * 性質：None
@@ -197,6 +209,7 @@
    - 中文翻譯：程序自主是否充分顧及了參與權，有待進一步審查。
    - 主語：die Verfahrensautonomie（程序自主權）
        * 性質：陰性單數
+
    - 動詞形態：hat ... Rechnung getragen
    - 受詞：den Beteiligungsrechten（參與權, 第三格）
        * 性質：中性複數
@@ -218,6 +231,7 @@
    - 中文翻譯：該問題需要深入審查。
    - 主語：die Frage（該問題）
        * 性質：陰性單數
+
    - 動詞形態：bedarf
    - 受詞：eingehender Prüfung（深入審查, 第二格）
        * 性質：陰性單數
@@ -239,6 +253,7 @@
    - 中文翻譯：該措施未顧及憲法保障的參與權。
    - 主語：die Maßnahme（該措施）
        * 性質：陰性單數
+
    - 動詞形態：hat ... Rechnung getragen
    - 受詞：den Beteiligungsrechten（參與權, 第三格）
        * 性質：中性複數
@@ -260,6 +275,7 @@
    - 中文翻譯：不存在任何強制性的理由。
    - 主語：es（虛主詞 es）
        * 性質：中性單數
+
    - 動詞形態：besteht
    - 受詞：keine zwingende Veranlassung（強制性的理由, Nominativ (formal)）
        * 性質：陰性單數
@@ -282,6 +298,7 @@
    - 中文翻譯：可以說明這點的是，沒有強制性的理由存在。
    - 主語：dass-Satz（從句）
        * 性質：None
+
    - 動詞形態：könnte sprechen
    - 受詞：dafür（支持這點, 第四格）
        * 性質：None
@@ -291,9 +308,11 @@
 - **支配介詞結構**：`für + 第四格`
   - 例句：`Vieles spricht für eine Verschiebung.`
     - 翻譯：很多跡象顯示應該延期。
+
    - 主語：Vieles（許多因素）
        * 性質：中性單數
        * 原形：viel
+
    - 動詞形態：spricht
    - 受詞：für eine Verschiebung（延期, 第四格）
        * 性質：陰性單數
