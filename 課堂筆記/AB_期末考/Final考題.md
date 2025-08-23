@@ -35,7 +35,7 @@ I. Über das Beratungs- und Entscheidungsverfahren im Bundestag 前情提要：2
 
 ---
 
-# **II.1**  
+## **II.1**  
 **原文**  
 > *Mit der Errichtung des BVerfG und den schon in Art. 93 GG aF breit zugeschnittenen Zuständigkeiten des Gerichts hatte der Verfassungsgeber 1949 große Schritte in Richtung eines verfassungsgerichtlich geprägten Verfassungsstaats getan.*
 
