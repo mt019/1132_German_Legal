@@ -28,4 +28,4 @@ extra_javascript:
 # mkdocs.yml（加入 markdown_extensions）
 markdown_extensions:
   - mdx_truly_sane_lists:
-      nested_indent: 2   # 允許第二層起用 2 個空白
+      nested_indent: 2   # 允許第二層起用 2 個空白（nested item只能用2格縮排！！！嚴格！！！

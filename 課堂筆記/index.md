@@ -101,14 +101,14 @@ description: "113-2 學期 國立台灣大學法律學院 《德文法學名著�
 
 ## 參考資源
 
-- **德文字典**
-    - [DWDS](https://www.dwds.de)
-    - [Duden](https://www.duden.de)
+- **德文字典**  
+  - [DWDS](https://www.dwds.de)
+  - [Duden](https://www.duden.de)
 
-- **德文資料庫**
-    - [beck-online](https://beck-online.beck.de)
-    - [Juris](https://www.juris.de)
+- **德文資料庫**  
+  - [beck-online](https://beck-online.beck.de)
+  - [Juris](https://www.juris.de)
 
-- **法規與判決查找**
-    - [Dejure.org](https://www.dejure.org)
-    - [Servat – Entscheidungen des Bundesverfassungsgerichts](https://www.servat.unibe.ch/dfr/)
+- **法規與判決查找**  
+  - [Dejure.org](https://www.dejure.org)
+  - [Servat – Entscheidungen des Bundesverfassungsgerichts](https://www.servat.unibe.ch/dfr/)
