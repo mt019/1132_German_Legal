@@ -26,3 +26,8 @@ extra_css:
 extra_javascript:
   - assets/keynav.js           # 我將放置的鍵盤導航腳本
   - assets/extra.js
+
+# mkdocs.yml（加入 markdown_extensions）
+markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2   # 允許第二層起用 2 個空白

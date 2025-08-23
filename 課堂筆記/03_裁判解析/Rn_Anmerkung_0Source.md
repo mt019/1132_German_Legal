@@ -1,4 +1,6 @@
-# Anmerkung von Professor Dr. Wolfgang Hecker
+# [Anmerkung von Professor Dr. Wolfgang Hecker 原文](https://beck-online.beck.de/?bcid=y-300-Z-NVwZ-B-2023-S-1241)
+
+
 
 ## I. Ausgangspunkt
 
