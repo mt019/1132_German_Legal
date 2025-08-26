@@ -72,10 +72,18 @@ description: "113-2 學期 國立台灣大學法律學院 《德文法學名著�
 | 1    | 02/18 | 課程介紹、德文線上工具 |
 | 2–5  | 02/25–03/18 | 文獻（一）Parlamentarisches Regierungssystem |
 | 6–9  | 03/25–04/15 | 文獻（二）Gebäudeenergiegesetz Beschluss |
-| 10   | 04/22 | 電影賞析《Das Lehrerzimmer》《Das schweigende Klassenzimmer》《Die Welle》《Der Vorleser》 |
+| 10   | 04/22 |  |
 | 11–14 | 04/29–05/20 | 文獻（三）GG-Änderung |
 | 15   | 05/27 | 期末考 |
 | 16   | 06/03 | 電影賞析《失控教室》 |
+
+
+電影賞析選項清單：
+
+- 《Das Lehrerzimmer》
+- 《Das schweigende Klassenzimmer》
+- 《Die Welle》
+- 《Der Vorleser》
 
 ---
 
